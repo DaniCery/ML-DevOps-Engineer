@@ -1,6 +1,7 @@
 # Predict Customer Churn
 
 - Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
+
 NOTE: OPEN CHURN_NOTEBOOK.IPYNB for the notebook
 
 ## Project Description
