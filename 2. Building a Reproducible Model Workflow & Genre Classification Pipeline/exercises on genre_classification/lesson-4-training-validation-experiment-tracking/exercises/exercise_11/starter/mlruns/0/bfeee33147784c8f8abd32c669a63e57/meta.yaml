@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/bfeee33147784c8f8abd32c669a63e57/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfeee33147784c8f8abd32c669a63e57
+run_name: legendary-ox-236
+run_uuid: bfeee33147784c8f8abd32c669a63e57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724507804158
+status: 1
+tags: []
+user_id: f81658c

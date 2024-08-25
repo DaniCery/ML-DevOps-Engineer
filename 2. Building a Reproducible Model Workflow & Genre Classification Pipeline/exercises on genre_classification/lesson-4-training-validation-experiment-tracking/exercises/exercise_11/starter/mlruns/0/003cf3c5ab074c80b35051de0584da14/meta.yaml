@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/003cf3c5ab074c80b35051de0584da14/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 003cf3c5ab074c80b35051de0584da14
+run_name: chill-fly-69
+run_uuid: 003cf3c5ab074c80b35051de0584da14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724518959242
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/c761eabc13fb4627b915b9abc958a5aa/artifacts
+end_time: 1724600860908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c761eabc13fb4627b915b9abc958a5aa
+run_name: wise-grub-927
+run_uuid: c761eabc13fb4627b915b9abc958a5aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724600846482
+status: 3
+tags: []
+user_id: f81658c

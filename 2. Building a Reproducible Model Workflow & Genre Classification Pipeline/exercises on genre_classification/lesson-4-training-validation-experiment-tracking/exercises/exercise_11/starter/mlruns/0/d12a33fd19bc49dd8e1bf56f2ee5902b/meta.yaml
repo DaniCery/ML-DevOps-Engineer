@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/d12a33fd19bc49dd8e1bf56f2ee5902b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d12a33fd19bc49dd8e1bf56f2ee5902b
+run_name: welcoming-pig-262
+run_uuid: d12a33fd19bc49dd8e1bf56f2ee5902b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724517855696
+status: 1
+tags: []
+user_id: f81658c

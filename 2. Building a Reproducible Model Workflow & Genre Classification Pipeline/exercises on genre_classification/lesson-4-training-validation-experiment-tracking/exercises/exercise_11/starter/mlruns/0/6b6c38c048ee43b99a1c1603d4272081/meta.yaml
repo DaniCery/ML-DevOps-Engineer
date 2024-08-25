@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/6b6c38c048ee43b99a1c1603d4272081/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b6c38c048ee43b99a1c1603d4272081
+run_name: adorable-ape-81
+run_uuid: 6b6c38c048ee43b99a1c1603d4272081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504137379
+status: 1
+tags: []
+user_id: f81658c

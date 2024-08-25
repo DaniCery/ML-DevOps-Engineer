@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/c5da883c84cc41dea750e24ed6dd8818/artifacts
+end_time: 1724503665961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5da883c84cc41dea750e24ed6dd8818
+run_name: intrigued-bee-262
+run_uuid: c5da883c84cc41dea750e24ed6dd8818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724503649475
+status: 3
+tags: []
+user_id: f81658c

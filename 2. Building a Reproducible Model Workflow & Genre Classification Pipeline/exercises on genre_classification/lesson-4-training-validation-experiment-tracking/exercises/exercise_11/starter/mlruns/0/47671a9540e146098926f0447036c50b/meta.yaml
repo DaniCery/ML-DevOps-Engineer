@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/47671a9540e146098926f0447036c50b/artifacts
+end_time: 1724504716283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47671a9540e146098926f0447036c50b
+run_name: legendary-quail-385
+run_uuid: 47671a9540e146098926f0447036c50b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504710287
+status: 4
+tags: []
+user_id: f81658c

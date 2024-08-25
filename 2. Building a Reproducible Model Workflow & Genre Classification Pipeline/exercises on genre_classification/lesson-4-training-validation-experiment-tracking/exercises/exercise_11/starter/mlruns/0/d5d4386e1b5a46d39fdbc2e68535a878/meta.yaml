@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/d5d4386e1b5a46d39fdbc2e68535a878/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5d4386e1b5a46d39fdbc2e68535a878
+run_name: bedecked-goat-902
+run_uuid: d5d4386e1b5a46d39fdbc2e68535a878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724517664147
+status: 1
+tags: []
+user_id: f81658c

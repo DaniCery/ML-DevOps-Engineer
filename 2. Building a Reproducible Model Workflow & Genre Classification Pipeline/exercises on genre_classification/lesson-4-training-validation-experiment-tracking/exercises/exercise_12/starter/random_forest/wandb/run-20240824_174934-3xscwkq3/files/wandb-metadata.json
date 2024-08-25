@@ -1,0 +1,56 @@
+{
+    "os": "macOS-12.7.1-arm64-arm-64bit",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-08-24T15:49:35.336369",
+    "startedAt": "2024-08-24T15:49:34.683073",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "exercise_6/data_train.csv:latest",
+        "--model_config",
+        "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/outputs/2024-08-24/17-49-31/random_forest_config.yml",
+        "--export_artifact",
+        "model_export"
+    ],
+    "state": "running",
+    "program": "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises.git",
+        "commit": "1d237f12348c3d915abc3ddb7cb68ef6ab597236"
+    },
+    "email": null,
+    "root": "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises",
+    "host": "MBP-di-Daniele.Home",
+    "username": "f81658c",
+    "executable": "/opt/anaconda3/envs/mlflow-7ed8cdded490606c9b777ecdde5cd2ae62a98867/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "cpu_freq": {
+        "current": 3228,
+        "min": 600,
+        "max": 3228
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3228,
+            "min": 600,
+            "max": 3228
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 20.557537078857422
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/e75d72e08b454dadae5fcfc8ab7fdc7e/artifacts
+end_time: 1724324936734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e75d72e08b454dadae5fcfc8ab7fdc7e
+run_name: mysterious-snipe-417
+run_uuid: e75d72e08b454dadae5fcfc8ab7fdc7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724324879961
+status: 4
+tags: []
+user_id: f81658c

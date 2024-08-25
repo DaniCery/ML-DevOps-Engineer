@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/9db2588b2c054076b2af45a38c48fbd5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9db2588b2c054076b2af45a38c48fbd5
+run_name: traveling-squid-880
+run_uuid: 9db2588b2c054076b2af45a38c48fbd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724518696909
+status: 1
+tags: []
+user_id: f81658c

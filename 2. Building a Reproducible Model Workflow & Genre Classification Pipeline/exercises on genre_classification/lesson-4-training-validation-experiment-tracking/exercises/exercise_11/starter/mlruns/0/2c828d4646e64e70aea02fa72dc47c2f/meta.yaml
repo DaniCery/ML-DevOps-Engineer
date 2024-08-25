@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/2c828d4646e64e70aea02fa72dc47c2f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c828d4646e64e70aea02fa72dc47c2f
+run_name: likeable-fowl-632
+run_uuid: 2c828d4646e64e70aea02fa72dc47c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724512712095
+status: 1
+tags: []
+user_id: f81658c

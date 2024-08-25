@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/072b4214328a4c1f99f399560f74b31e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 072b4214328a4c1f99f399560f74b31e
+run_name: caring-fowl-695
+run_uuid: 072b4214328a4c1f99f399560f74b31e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504715758
+status: 1
+tags: []
+user_id: f81658c

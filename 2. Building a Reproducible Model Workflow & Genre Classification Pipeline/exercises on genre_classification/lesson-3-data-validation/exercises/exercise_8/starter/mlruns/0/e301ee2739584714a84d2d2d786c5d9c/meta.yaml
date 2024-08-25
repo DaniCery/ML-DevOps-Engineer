@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_8/starter/mlruns/0/e301ee2739584714a84d2d2d786c5d9c/artifacts
+end_time: 1724354545605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e301ee2739584714a84d2d2d786c5d9c
+run_name: rebellious-toad-372
+run_uuid: e301ee2739584714a84d2d2d786c5d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724354534963
+status: 4
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/5ffc916eea0d483699a0072551d14302/artifacts
+end_time: 1724264516238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ffc916eea0d483699a0072551d14302
+run_name: amusing-vole-859
+run_uuid: 5ffc916eea0d483699a0072551d14302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724264515609
+status: 4
+tags: []
+user_id: root

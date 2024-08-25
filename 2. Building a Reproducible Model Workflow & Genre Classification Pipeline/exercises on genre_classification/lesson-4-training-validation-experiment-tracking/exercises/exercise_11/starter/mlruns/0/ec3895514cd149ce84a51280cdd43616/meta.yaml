@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ec3895514cd149ce84a51280cdd43616/artifacts
+end_time: 1724506037695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec3895514cd149ce84a51280cdd43616
+run_name: exultant-loon-879
+run_uuid: ec3895514cd149ce84a51280cdd43616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724506009378
+status: 3
+tags: []
+user_id: f81658c

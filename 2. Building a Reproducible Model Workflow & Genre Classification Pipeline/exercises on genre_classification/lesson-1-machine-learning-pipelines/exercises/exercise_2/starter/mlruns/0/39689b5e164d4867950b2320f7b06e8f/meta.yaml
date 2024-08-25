@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/39689b5e164d4867950b2320f7b06e8f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39689b5e164d4867950b2320f7b06e8f
+run_name: powerful-gnat-565
+run_uuid: 39689b5e164d4867950b2320f7b06e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724262665133
+status: 1
+tags: []
+user_id: root

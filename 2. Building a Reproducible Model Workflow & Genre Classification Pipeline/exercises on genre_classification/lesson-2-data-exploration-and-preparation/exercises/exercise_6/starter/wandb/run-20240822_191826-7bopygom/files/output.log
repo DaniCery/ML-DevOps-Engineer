@@ -1,0 +1,22 @@
+2024-08-22 19:18:27,619 Downloading and reading artifact
+2024-08-22 19:18:28,764 Splitting data into train and test
+Traceback (most recent call last):
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/run.py", line 124, in <module>
+    go(args)
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/run.py", line 35, in go
+    splits["train"], splits["test"] = train_test_split(df,
+                                     ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/mlflow-ecd34dd7c4d59631a93d3f9c3c0828d18c5e73d8/lib/python3.12/site-packages/sklearn/utils/_param_validation.py", line 213, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/mlflow-ecd34dd7c4d59631a93d3f9c3c0828d18c5e73d8/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 2657, in train_test_split
+    arrays = indexable(*arrays)
+             ^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/mlflow-ecd34dd7c4d59631a93d3f9c3c0828d18c5e73d8/lib/python3.12/site-packages/sklearn/utils/validation.py", line 514, in indexable
+    check_consistent_length(*result)
+  File "/opt/anaconda3/envs/mlflow-ecd34dd7c4d59631a93d3f9c3c0828d18c5e73d8/lib/python3.12/site-packages/sklearn/utils/validation.py", line 454, in check_consistent_length
+    lengths = [_num_samples(X) for X in arrays if X is not None]
+               ^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/mlflow-ecd34dd7c4d59631a93d3f9c3c0828d18c5e73d8/lib/python3.12/site-packages/sklearn/utils/validation.py", line 382, in _num_samples
+    raise TypeError(
+TypeError: Singleton array array(0.3) cannot be considered a valid collection.

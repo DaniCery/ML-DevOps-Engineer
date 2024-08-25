@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/d09e778488f14f9688c4cc295680ed39/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d09e778488f14f9688c4cc295680ed39
+run_name: stately-dove-697
+run_uuid: d09e778488f14f9688c4cc295680ed39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724503984681
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,7 @@
+2024-08-22 17:36:46,046 Getting artifact from the input path
+2024-08-22 17:36:46,729 Open the content with pandas
+2024-08-22 17:36:50,465 Drop duplicates
+2024-08-22 17:36:50,491 Add a new feature
+2024-08-22 17:36:50,496 Save locally
+2024-08-22 17:36:50,713 Create the new artifact
+2024-08-22 17:36:50,715 Attach the content and load it to wandb run

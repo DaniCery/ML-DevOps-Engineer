@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/var/folders/45/fj8r5p_92hq96t1_t88048jm0000gn/T/ipykernel_3621/1032797174.py", line 6, in <module>
+    os.environ["WANDB_NOTEBOOK_NAME"] = 'EDA.ipynb'
+NameError: name 'os' is not defined

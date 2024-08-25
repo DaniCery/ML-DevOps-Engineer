@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/91c25b16efa54704923eef284ae512bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91c25b16efa54704923eef284ae512bb
+run_name: clumsy-sloth-828
+run_uuid: 91c25b16efa54704923eef284ae512bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724517664173
+status: 1
+tags: []
+user_id: f81658c

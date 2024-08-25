@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/dbf9afd92a0145cf877b5acb400767f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbf9afd92a0145cf877b5acb400767f3
+run_name: calm-turtle-773
+run_uuid: dbf9afd92a0145cf877b5acb400767f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504137658
+status: 1
+tags: []
+user_id: f81658c

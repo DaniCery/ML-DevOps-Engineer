@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/a4699e4074cb41b082a62cd1c658fa34/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4699e4074cb41b082a62cd1c658fa34
+run_name: delightful-hen-182
+run_uuid: a4699e4074cb41b082a62cd1c658fa34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504137264
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/9a593b7af9d9444ab5af37e979edb43e/artifacts
+end_time: 1724600005158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a593b7af9d9444ab5af37e979edb43e
+run_name: bittersweet-jay-863
+run_uuid: 9a593b7af9d9444ab5af37e979edb43e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724599975739
+status: 3
+tags: []
+user_id: f81658c

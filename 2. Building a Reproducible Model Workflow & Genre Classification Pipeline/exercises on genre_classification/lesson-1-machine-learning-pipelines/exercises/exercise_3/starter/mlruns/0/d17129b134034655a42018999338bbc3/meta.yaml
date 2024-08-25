@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/d17129b134034655a42018999338bbc3/artifacts
+end_time: 1724275001818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d17129b134034655a42018999338bbc3
+run_name: omniscient-fly-118
+run_uuid: d17129b134034655a42018999338bbc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724274947000
+status: 4
+tags: []
+user_id: f81658c

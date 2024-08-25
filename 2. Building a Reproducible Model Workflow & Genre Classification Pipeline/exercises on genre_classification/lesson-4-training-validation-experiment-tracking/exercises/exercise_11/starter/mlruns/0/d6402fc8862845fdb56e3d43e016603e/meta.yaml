@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/d6402fc8862845fdb56e3d43e016603e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6402fc8862845fdb56e3d43e016603e
+run_name: clean-pug-930
+run_uuid: d6402fc8862845fdb56e3d43e016603e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724507804232
+status: 1
+tags: []
+user_id: f81658c

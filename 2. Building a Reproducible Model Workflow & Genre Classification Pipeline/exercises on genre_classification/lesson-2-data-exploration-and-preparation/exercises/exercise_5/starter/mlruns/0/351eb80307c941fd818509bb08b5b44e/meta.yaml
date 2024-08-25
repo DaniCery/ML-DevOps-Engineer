@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/starter/mlruns/0/351eb80307c941fd818509bb08b5b44e/artifacts
+end_time: 1724339584338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 351eb80307c941fd818509bb08b5b44e
+run_name: clean-finch-774
+run_uuid: 351eb80307c941fd818509bb08b5b44e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724339508554
+status: 4
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/93740900e6ea4c22a0b69bab0801ac6e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93740900e6ea4c22a0b69bab0801ac6e
+run_name: angry-mare-473
+run_uuid: 93740900e6ea4c22a0b69bab0801ac6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520297413
+status: 1
+tags: []
+user_id: f81658c

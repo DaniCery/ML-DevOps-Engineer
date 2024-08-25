@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_7/starter/mlruns/0/d60cbbf71b3b45019dcf9e2da66365bd/artifacts
+end_time: 1724351424096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d60cbbf71b3b45019dcf9e2da66365bd
+run_name: treasured-snipe-354
+run_uuid: d60cbbf71b3b45019dcf9e2da66365bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724351389131
+status: 4
+tags: []
+user_id: f81658c

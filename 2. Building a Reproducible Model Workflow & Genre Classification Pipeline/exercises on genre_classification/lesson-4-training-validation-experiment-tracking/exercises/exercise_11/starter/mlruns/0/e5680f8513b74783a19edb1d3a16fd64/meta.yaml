@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/e5680f8513b74783a19edb1d3a16fd64/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5680f8513b74783a19edb1d3a16fd64
+run_name: nervous-squirrel-914
+run_uuid: e5680f8513b74783a19edb1d3a16fd64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724505124381
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/9656875ee47d4a5ba3f806d05b9bd639/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9656875ee47d4a5ba3f806d05b9bd639
+run_name: delicate-doe-567
+run_uuid: 9656875ee47d4a5ba3f806d05b9bd639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504790646
+status: 1
+tags: []
+user_id: f81658c

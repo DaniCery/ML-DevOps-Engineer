@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/e1cd7ad21be041cfba4131a4230c4c94/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1cd7ad21be041cfba4131a4230c4c94
+run_name: marvelous-bear-332
+run_uuid: e1cd7ad21be041cfba4131a4230c4c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504715306
+status: 1
+tags: []
+user_id: f81658c

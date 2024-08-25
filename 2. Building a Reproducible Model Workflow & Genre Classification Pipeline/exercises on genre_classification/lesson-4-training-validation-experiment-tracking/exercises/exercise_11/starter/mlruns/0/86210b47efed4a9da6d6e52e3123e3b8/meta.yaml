@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/86210b47efed4a9da6d6e52e3123e3b8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86210b47efed4a9da6d6e52e3123e3b8
+run_name: nervous-worm-55
+run_uuid: 86210b47efed4a9da6d6e52e3123e3b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724519426514
+status: 1
+tags: []
+user_id: f81658c

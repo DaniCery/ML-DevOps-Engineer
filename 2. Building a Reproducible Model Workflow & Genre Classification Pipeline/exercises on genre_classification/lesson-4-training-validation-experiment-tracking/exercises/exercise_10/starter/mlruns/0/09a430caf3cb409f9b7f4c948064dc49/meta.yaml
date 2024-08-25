@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/09a430caf3cb409f9b7f4c948064dc49/artifacts
+end_time: 1724410496569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09a430caf3cb409f9b7f4c948064dc49
+run_name: dapper-bass-662
+run_uuid: 09a430caf3cb409f9b7f4c948064dc49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724410466410
+status: 4
+tags: []
+user_id: f81658c

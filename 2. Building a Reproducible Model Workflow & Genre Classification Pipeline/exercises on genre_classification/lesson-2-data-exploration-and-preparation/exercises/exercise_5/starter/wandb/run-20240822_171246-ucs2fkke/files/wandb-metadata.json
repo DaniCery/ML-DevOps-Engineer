@@ -1,0 +1,31 @@
+{
+    "os": "macOS-12.7.1-arm64-arm-64bit",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-08-22T15:12:47.744298",
+    "startedAt": "2024-08-22T15:12:46.496100",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "exercise_4/genres_mod.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "clean_data",
+        "--artifact_description",
+        "Data after preprocessing"
+    ],
+    "state": "running",
+    "program": "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/starter/run.py",
+    "codePath": "lesson-2-data-exploration-and-preparation/exercises/exercise_5/starter/run.py",
+    "git": {
+        "remote": "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises.git",
+        "commit": "1d237f12348c3d915abc3ddb7cb68ef6ab597236"
+    },
+    "email": null,
+    "root": "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises",
+    "host": "MBP-di-Daniele.lan",
+    "username": "f81658c",
+    "executable": "/opt/anaconda3/envs/mlflow-aee9843d97376811a77488a5628d461ff564f553/bin/python"
+}

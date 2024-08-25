@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/99e5935faab842b3813638c2ce8ce9ed/artifacts
+end_time: 1724507311546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99e5935faab842b3813638c2ce8ce9ed
+run_name: flawless-cub-153
+run_uuid: 99e5935faab842b3813638c2ce8ce9ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724505179226
+status: 3
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/85d7ce73b1a54d19b79b6af93ce34528/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85d7ce73b1a54d19b79b6af93ce34528
+run_name: righteous-snipe-112
+run_uuid: 85d7ce73b1a54d19b79b6af93ce34528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724511269311
+status: 1
+tags: []
+user_id: f81658c

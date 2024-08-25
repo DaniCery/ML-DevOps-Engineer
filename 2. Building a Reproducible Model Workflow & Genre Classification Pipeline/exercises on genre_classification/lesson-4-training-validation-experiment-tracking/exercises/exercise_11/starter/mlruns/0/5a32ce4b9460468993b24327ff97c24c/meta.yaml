@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/5a32ce4b9460468993b24327ff97c24c/artifacts
+end_time: 1724506547439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a32ce4b9460468993b24327ff97c24c
+run_name: hilarious-swan-264
+run_uuid: 5a32ce4b9460468993b24327ff97c24c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724506504041
+status: 3
+tags: []
+user_id: f81658c

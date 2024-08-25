@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ee1f3728640340d1966b6f58ecebe26a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee1f3728640340d1966b6f58ecebe26a
+run_name: trusting-croc-882
+run_uuid: ee1f3728640340d1966b6f58ecebe26a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520237115
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/0cafb4390cd34eff856814bd30bc7d16/artifacts
+end_time: 1724599356326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cafb4390cd34eff856814bd30bc7d16
+run_name: melodic-toad-28
+run_uuid: 0cafb4390cd34eff856814bd30bc7d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724599346349
+status: 3
+tags: []
+user_id: f81658c

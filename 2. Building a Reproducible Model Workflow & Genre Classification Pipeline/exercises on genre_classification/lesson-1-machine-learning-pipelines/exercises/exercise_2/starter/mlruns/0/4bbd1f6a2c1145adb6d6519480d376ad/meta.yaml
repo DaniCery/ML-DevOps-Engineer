@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/4bbd1f6a2c1145adb6d6519480d376ad/artifacts
+end_time: 1724266423633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bbd1f6a2c1145adb6d6519480d376ad
+run_name: zealous-lamb-517
+run_uuid: 4bbd1f6a2c1145adb6d6519480d376ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724266407781
+status: 3
+tags: []
+user_id: f81658c

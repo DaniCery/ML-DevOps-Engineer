@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/cf8b07158df34d959846e70017c39758/artifacts
+end_time: 1724506950788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf8b07158df34d959846e70017c39758
+run_name: magnificent-ram-778
+run_uuid: cf8b07158df34d959846e70017c39758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724506906002
+status: 3
+tags: []
+user_id: f81658c

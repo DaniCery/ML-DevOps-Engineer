@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/b807f09560ef40e9847cb674247e0db6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b807f09560ef40e9847cb674247e0db6
+run_name: popular-squid-439
+run_uuid: b807f09560ef40e9847cb674247e0db6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724503984750
+status: 1
+tags: []
+user_id: f81658c

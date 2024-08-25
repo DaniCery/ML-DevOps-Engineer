@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/79746605652b44c6855a4f7ac078b9cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79746605652b44c6855a4f7ac078b9cd
+run_name: adorable-stag-342
+run_uuid: 79746605652b44c6855a4f7ac078b9cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724508232227
+status: 1
+tags: []
+user_id: f81658c

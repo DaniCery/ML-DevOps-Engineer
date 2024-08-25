@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/6c8ae6a43684446bb2c98bedd93f51ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c8ae6a43684446bb2c98bedd93f51ac
+run_name: thundering-deer-902
+run_uuid: 6c8ae6a43684446bb2c98bedd93f51ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724518993511
+status: 1
+tags: []
+user_id: f81658c

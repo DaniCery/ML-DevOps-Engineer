@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/68f6c398812d42c08887c6ccc1f89a94/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68f6c398812d42c08887c6ccc1f89a94
+run_name: enthused-shrike-54
+run_uuid: 68f6c398812d42c08887c6ccc1f89a94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724513049544
+status: 1
+tags: []
+user_id: f81658c

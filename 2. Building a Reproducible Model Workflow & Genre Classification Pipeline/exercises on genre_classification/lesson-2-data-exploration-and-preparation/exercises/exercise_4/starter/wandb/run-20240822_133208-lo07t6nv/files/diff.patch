@@ -1,0 +1,133 @@
+diff --git a/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/upload_artifact.py b/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/upload_artifact.py
+index cb43d39..85e3ef4 100644
+--- a/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/upload_artifact.py
++++ b/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/upload_artifact.py
+@@ -15,20 +15,27 @@ def go(args):
+ 
+     # Create a W&B run in the project ``exercise_1``. Set the option ``job_type="upload_file"``:
+ 
+-    # YOUR CODE HERE
+-
+-    # Create an instance of the class ``wandb.Artifact``. Use the ``artifact_name`` parameter to fill
+-    # the keyword ``name`` when constructing the wandb.Artifact class.
+-    # Use the parameters ``artifact_type`` and ``artifact_desc`` to fill respectively the keyword
+-    # ``type`` and ``description``
+-    # HINT: you can use args.artifact_name to reference the parameter artifact_name
+-
+-    # YOUR CODE HERE
+-
+-    # Attach the file provided as the parameter ``input_file`` to the artifact instance using
+-    # ``artifact.add_file``, and log the artifact to the run using ``run.log_artifact``.
+-
+-    # YOUR CODE HERE
++    with wandb.init(project= "exercise_1", job_type= "upload_file") as run:
++        # Create an instance of the class ``wandb.Artifact``. Use the ``artifact_name`` parameter to fill
++        # the keyword ``name`` when constructing the wandb.Artifact class.
++        # Use the parameters ``artifact_type`` and ``artifact_desc`` to fill respectively the keyword
++        # ``type`` and ``description``
++        # HINT: you can use args.artifact_name to reference the parameter artifact_name
++
++        #create artifact
++        artifact = wandb.Artifact(
++                                name = args.artifact_name,
++                                type = args.artifact_type,
++                                description = args.artifact_description
++                                )
++
++        # Attach the file provided as the parameter ``input_file`` to the artifact instance using
++        # ``artifact.add_file``, and log the artifact to the run using ``run.log_artifact``.
++
++        #artifact now contains the file
++        artifact.add_file(args.input_file)
++        #log it in the run
++        run.log_artifact(artifact)
+ 
+ 
+ if __name__ == "__main__":
+diff --git a/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/use_artifact.py b/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/use_artifact.py
+index f455e13..b1fd491 100644
+--- a/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/use_artifact.py
++++ b/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/use_artifact.py
+@@ -18,7 +18,11 @@ def go(args):
+ 
+     # YOUR CODE HERE: get the artifact and store its local path in the variable "artifact_path"
+     # HINT: you can get the artifact path by using the "file()" method
++    
++    #get the artifact
++    artifact = run.use_artifact(args.artifact_name)
+ 
++    #download the artifact
+     artifact_path = artifact.file()
+ 
+     logger.info("Artifact content:")
+diff --git a/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/zen.txt b/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/zen.txt
+index 634c12b..ec8c529 100644
+--- a/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/zen.txt
++++ b/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/zen.txt
+@@ -19,3 +19,5 @@ Although never is often better than *right* now.
+ If the implementation is hard to explain, it's a bad idea.
+ If the implementation is easy to explain, it may be a good idea.
+ Namespaces are one honking great idea -- let's do more of those!
++
++Keep them in mind!
+diff --git a/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/conda.yml b/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/conda.yml
+index b735436..9190609 100644
+--- a/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/conda.yml
++++ b/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/conda.yml
+@@ -3,4 +3,10 @@ channels:
+   - conda-forge
+   - defaults
+ dependencies:
+-  # Complete HERE
++  - requests=2.32.3
++  - pip=20.3.3
++  - mlflow=2.15.1
++  - hydra-core=1.0.6
++  - pip=20.3.3
++  - pip:
++    - wandb==0.10.21
+diff --git a/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/config.yaml b/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/config.yaml
+index 2841a69..78d5230 100644
+--- a/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/config.yaml
++++ b/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/config.yaml
+@@ -1,5 +1,5 @@
+ main:
+-  project_name: experiment_3
++  project_name: exercise_3
+   experiment_name: dev
+ data:
+   file_url: https://raw.githubusercontent.com/scikit-learn/scikit-learn/4dfdfb4e1bb3719628753a4ece995a1b2fa5312a/sklearn/datasets/data/iris.csv
+diff --git a/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/main.py b/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/main.py
+index 47fba9e..f86f0bf 100644
+--- a/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/main.py
++++ b/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/main.py
+@@ -32,6 +32,16 @@ def go(config: DictConfig):
+     # NOTE: use os.path.join(root_path, "process_data") to get the path
+     # to the "process_data" component
+     ##################
++    _ = mlflow.run(
++    os.path.join(root_path, "process_data"),
++    "main",
++    parameters={
++        "input_artifact": "iris.csv:latest",
++        "artifact_name": "clean_data.csv",
++        "artifact_type": "clean_data",
++        "artifact_description": "Data after preprocessing"
++    },
++    )
+ 
+ 
+ 
+diff --git a/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/MLproject b/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/MLproject
+index e69de29..5c1dd2d 100644
+--- a/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/MLproject
++++ b/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/MLproject
+@@ -0,0 +1,7 @@
++name: exercise_4
++conda_env: conda.yml
++
++entry_points:
++  main:
++    command: >-
++      touch EDA.ipynb
+\ No newline at end of file

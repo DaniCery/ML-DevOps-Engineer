@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/b2853b07547c4b1da379ec59f1e10e76/artifacts
+end_time: 1724601220597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2853b07547c4b1da379ec59f1e10e76
+run_name: redolent-sloth-826
+run_uuid: b2853b07547c4b1da379ec59f1e10e76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724601205830
+status: 3
+tags: []
+user_id: f81658c

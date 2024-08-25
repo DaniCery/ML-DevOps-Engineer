@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/ce32b138462f494d993593238a630d1d/artifacts
+end_time: 1724325563511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce32b138462f494d993593238a630d1d
+run_name: calm-cat-609
+run_uuid: ce32b138462f494d993593238a630d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724325562754
+status: 3
+tags: []
+user_id: f81658c

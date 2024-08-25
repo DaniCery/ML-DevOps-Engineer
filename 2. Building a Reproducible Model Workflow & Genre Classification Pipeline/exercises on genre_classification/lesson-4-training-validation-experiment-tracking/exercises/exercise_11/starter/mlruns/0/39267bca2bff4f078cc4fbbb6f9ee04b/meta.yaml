@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/39267bca2bff4f078cc4fbbb6f9ee04b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39267bca2bff4f078cc4fbbb6f9ee04b
+run_name: indecisive-foal-650
+run_uuid: 39267bca2bff4f078cc4fbbb6f9ee04b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724512711768
+status: 1
+tags: []
+user_id: f81658c

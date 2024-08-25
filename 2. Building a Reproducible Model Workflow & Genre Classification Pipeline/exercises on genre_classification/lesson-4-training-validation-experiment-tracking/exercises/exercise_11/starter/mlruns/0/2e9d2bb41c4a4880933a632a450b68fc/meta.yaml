@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/2e9d2bb41c4a4880933a632a450b68fc/artifacts
+end_time: 1724506213427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e9d2bb41c4a4880933a632a450b68fc
+run_name: trusting-deer-447
+run_uuid: 2e9d2bb41c4a4880933a632a450b68fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724506174633
+status: 3
+tags: []
+user_id: f81658c

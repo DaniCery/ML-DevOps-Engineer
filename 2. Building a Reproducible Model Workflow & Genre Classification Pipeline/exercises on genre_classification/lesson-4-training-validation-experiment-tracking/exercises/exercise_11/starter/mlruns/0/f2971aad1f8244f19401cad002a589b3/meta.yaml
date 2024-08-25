@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/f2971aad1f8244f19401cad002a589b3/artifacts
+end_time: 1724513050026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2971aad1f8244f19401cad002a589b3
+run_name: resilient-newt-826
+run_uuid: f2971aad1f8244f19401cad002a589b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724513007912
+status: 4
+tags: []
+user_id: f81658c

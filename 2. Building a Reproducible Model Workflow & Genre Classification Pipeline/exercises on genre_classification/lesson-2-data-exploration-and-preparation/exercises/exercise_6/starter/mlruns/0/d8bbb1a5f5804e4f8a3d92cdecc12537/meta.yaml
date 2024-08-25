@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/mlruns/0/d8bbb1a5f5804e4f8a3d92cdecc12537/artifacts
+end_time: 1724347400066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8bbb1a5f5804e4f8a3d92cdecc12537
+run_name: unruly-conch-592
+run_uuid: d8bbb1a5f5804e4f8a3d92cdecc12537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724347390480
+status: 4
+tags: []
+user_id: f81658c

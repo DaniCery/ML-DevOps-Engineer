@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/0b05232f87f6466ea83f12102e47c787/artifacts
+end_time: 1724514429388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b05232f87f6466ea83f12102e47c787
+run_name: funny-dove-900
+run_uuid: 0b05232f87f6466ea83f12102e47c787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724514409793
+status: 4
+tags: []
+user_id: f81658c

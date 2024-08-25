@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ed33b3847d3d42ecbcdeaa347bc07268/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed33b3847d3d42ecbcdeaa347bc07268
+run_name: unleashed-bee-165
+run_uuid: ed33b3847d3d42ecbcdeaa347bc07268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724503984889
+status: 1
+tags: []
+user_id: f81658c

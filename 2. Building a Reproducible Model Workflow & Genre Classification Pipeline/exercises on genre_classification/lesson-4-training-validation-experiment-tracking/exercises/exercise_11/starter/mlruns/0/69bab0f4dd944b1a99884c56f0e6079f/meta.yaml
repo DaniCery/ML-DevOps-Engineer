@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/69bab0f4dd944b1a99884c56f0e6079f/artifacts
+end_time: 1724506727349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69bab0f4dd944b1a99884c56f0e6079f
+run_name: defiant-kit-223
+run_uuid: 69bab0f4dd944b1a99884c56f0e6079f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724506681786
+status: 3
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/b75d55009f2045e591bbe27b7dc8e99e/artifacts
+end_time: 1724514429517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b75d55009f2045e591bbe27b7dc8e99e
+run_name: blushing-steed-116
+run_uuid: b75d55009f2045e591bbe27b7dc8e99e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724514408444
+status: 4
+tags: []
+user_id: f81658c

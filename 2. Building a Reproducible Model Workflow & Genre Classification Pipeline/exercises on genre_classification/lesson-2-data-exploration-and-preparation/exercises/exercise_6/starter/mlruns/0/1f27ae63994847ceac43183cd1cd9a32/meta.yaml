@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/mlruns/0/1f27ae63994847ceac43183cd1cd9a32/artifacts
+end_time: 1724346630966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f27ae63994847ceac43183cd1cd9a32
+run_name: sneaky-newt-872
+run_uuid: 1f27ae63994847ceac43183cd1cd9a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724346604335
+status: 4
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/16ebce47abf04f8d9b2a35d7674bf078/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16ebce47abf04f8d9b2a35d7674bf078
+run_name: luxuriant-mare-999
+run_uuid: 16ebce47abf04f8d9b2a35d7674bf078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724503984498
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/38645c50b0c24321a58768da62cee0de/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38645c50b0c24321a58768da62cee0de
+run_name: zealous-wasp-856
+run_uuid: 38645c50b0c24321a58768da62cee0de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724513049507
+status: 1
+tags: []
+user_id: f81658c

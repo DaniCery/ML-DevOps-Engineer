@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/f626ee4a94f74b86b7b759942c57a28b/artifacts
+end_time: 1724598614337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f626ee4a94f74b86b7b759942c57a28b
+run_name: abundant-dog-173
+run_uuid: f626ee4a94f74b86b7b759942c57a28b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724598602567
+status: 3
+tags: []
+user_id: f81658c

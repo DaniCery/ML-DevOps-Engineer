@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ed4c2e59467b4e2486914338a0ce1302/artifacts
+end_time: 1724503347214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed4c2e59467b4e2486914338a0ce1302
+run_name: adorable-bass-506
+run_uuid: ed4c2e59467b4e2486914338a0ce1302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724503331722
+status: 3
+tags: []
+user_id: f81658c

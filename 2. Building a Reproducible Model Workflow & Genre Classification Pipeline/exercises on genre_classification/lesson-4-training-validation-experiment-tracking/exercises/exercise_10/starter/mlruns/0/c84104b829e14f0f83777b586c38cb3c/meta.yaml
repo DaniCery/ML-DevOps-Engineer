@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/c84104b829e14f0f83777b586c38cb3c/artifacts
+end_time: 1724408840303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c84104b829e14f0f83777b586c38cb3c
+run_name: capable-mink-625
+run_uuid: c84104b829e14f0f83777b586c38cb3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724408748590
+status: 4
+tags: []
+user_id: f81658c

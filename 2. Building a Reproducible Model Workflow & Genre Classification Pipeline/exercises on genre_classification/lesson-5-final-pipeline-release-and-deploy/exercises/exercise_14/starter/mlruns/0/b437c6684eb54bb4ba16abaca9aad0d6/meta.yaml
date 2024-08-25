@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/b437c6684eb54bb4ba16abaca9aad0d6/artifacts
+end_time: 1724600007179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b437c6684eb54bb4ba16abaca9aad0d6
+run_name: blushing-bat-585
+run_uuid: b437c6684eb54bb4ba16abaca9aad0d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724600005195
+status: 4
+tags: []
+user_id: f81658c

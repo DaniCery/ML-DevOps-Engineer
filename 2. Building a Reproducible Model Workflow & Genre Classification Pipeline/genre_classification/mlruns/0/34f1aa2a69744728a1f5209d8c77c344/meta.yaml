@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/34f1aa2a69744728a1f5209d8c77c344/artifacts
+end_time: 1724596903007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34f1aa2a69744728a1f5209d8c77c344
+run_name: adventurous-colt-662
+run_uuid: 34f1aa2a69744728a1f5209d8c77c344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724596891269
+status: 3
+tags: []
+user_id: f81658c

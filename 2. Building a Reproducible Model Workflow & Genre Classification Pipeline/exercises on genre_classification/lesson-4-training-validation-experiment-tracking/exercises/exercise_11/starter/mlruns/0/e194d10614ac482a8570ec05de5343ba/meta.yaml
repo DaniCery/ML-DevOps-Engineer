@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/e194d10614ac482a8570ec05de5343ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e194d10614ac482a8570ec05de5343ba
+run_name: orderly-sheep-806
+run_uuid: e194d10614ac482a8570ec05de5343ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724512711723
+status: 1
+tags: []
+user_id: f81658c

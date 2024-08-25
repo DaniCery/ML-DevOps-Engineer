@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/e2ba0a494aac4e658acb6c55518fb141/artifacts
+end_time: 1724598636810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2ba0a494aac4e658acb6c55518fb141
+run_name: resilient-bee-409
+run_uuid: e2ba0a494aac4e658acb6c55518fb141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724598625993
+status: 3
+tags: []
+user_id: f81658c

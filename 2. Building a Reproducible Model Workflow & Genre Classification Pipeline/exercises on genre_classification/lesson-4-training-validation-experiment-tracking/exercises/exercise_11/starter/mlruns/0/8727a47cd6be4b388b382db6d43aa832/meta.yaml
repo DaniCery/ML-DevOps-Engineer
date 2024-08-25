@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/8727a47cd6be4b388b382db6d43aa832/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8727a47cd6be4b388b382db6d43aa832
+run_name: able-croc-288
+run_uuid: 8727a47cd6be4b388b382db6d43aa832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504790652
+status: 1
+tags: []
+user_id: f81658c

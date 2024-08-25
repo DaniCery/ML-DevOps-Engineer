@@ -1,0 +1,13 @@
+
+2024-08-23 12:51:21,036 Downloading and reading test artifact
+2024-08-23 12:51:22,974 Extracting target from dataframe
+2024-08-23 12:51:22,976 Splitting train/val
+2024-08-23 12:51:22,993 Setting up pipeline
+Traceback (most recent call last):
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/random_forest/run.py", line 223, in <module>
+    go(args)
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/random_forest/run.py", line 44, in go
+    pipe = get_inference_pipeline(args)
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/random_forest/run.py", line 161, in get_inference_pipeline
+    reshape_to_1d(),
+TypeError: 'FunctionTransformer' object is not callable

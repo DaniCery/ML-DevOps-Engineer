@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/e8af39d849e34923a0bd7104e9c87412/artifacts
+end_time: 1724513988294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8af39d849e34923a0bd7104e9c87412
+run_name: treasured-tern-638
+run_uuid: e8af39d849e34923a0bd7104e9c87412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724513910159
+status: 4
+tags: []
+user_id: f81658c

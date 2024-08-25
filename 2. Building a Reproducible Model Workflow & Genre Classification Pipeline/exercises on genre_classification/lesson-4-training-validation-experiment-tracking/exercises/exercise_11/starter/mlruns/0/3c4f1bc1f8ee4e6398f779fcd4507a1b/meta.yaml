@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/3c4f1bc1f8ee4e6398f779fcd4507a1b/artifacts
+end_time: 1724509803301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c4f1bc1f8ee4e6398f779fcd4507a1b
+run_name: valuable-grub-277
+run_uuid: 3c4f1bc1f8ee4e6398f779fcd4507a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724509760822
+status: 4
+tags: []
+user_id: f81658c

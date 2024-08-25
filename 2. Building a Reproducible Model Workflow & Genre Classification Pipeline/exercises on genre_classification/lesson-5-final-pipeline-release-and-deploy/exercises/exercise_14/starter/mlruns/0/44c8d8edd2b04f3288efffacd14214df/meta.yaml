@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/44c8d8edd2b04f3288efffacd14214df/artifacts
+end_time: 1724601220681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44c8d8edd2b04f3288efffacd14214df
+run_name: zealous-turtle-647
+run_uuid: 44c8d8edd2b04f3288efffacd14214df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724601119877
+status: 3
+tags: []
+user_id: f81658c

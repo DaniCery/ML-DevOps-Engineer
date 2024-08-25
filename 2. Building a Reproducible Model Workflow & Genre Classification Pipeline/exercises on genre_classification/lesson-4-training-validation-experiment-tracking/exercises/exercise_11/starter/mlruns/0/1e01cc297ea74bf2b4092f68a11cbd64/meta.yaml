@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/1e01cc297ea74bf2b4092f68a11cbd64/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e01cc297ea74bf2b4092f68a11cbd64
+run_name: enchanting-stag-237
+run_uuid: 1e01cc297ea74bf2b4092f68a11cbd64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504137353
+status: 1
+tags: []
+user_id: f81658c

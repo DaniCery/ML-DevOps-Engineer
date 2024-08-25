@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/625528596541442ab16f3971452557ec/artifacts
+end_time: 1724599421900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 625528596541442ab16f3971452557ec
+run_name: bald-jay-447
+run_uuid: 625528596541442ab16f3971452557ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724599393230
+status: 3
+tags: []
+user_id: f81658c

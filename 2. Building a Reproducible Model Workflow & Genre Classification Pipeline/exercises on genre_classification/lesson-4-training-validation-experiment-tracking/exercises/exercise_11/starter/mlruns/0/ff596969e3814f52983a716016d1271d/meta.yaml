@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ff596969e3814f52983a716016d1271d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff596969e3814f52983a716016d1271d
+run_name: puzzled-doe-600
+run_uuid: ff596969e3814f52983a716016d1271d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504715408
+status: 1
+tags: []
+user_id: f81658c

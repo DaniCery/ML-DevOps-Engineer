@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/5c2387d4c00b44f98b00cfe41f65171c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c2387d4c00b44f98b00cfe41f65171c
+run_name: lyrical-asp-269
+run_uuid: 5c2387d4c00b44f98b00cfe41f65171c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724262956333
+status: 1
+tags: []
+user_id: root

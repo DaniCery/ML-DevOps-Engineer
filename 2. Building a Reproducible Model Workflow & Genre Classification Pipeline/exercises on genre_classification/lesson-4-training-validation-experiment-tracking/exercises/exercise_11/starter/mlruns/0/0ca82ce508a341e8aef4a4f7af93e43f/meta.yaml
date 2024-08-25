@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/0ca82ce508a341e8aef4a4f7af93e43f/artifacts
+end_time: 1724506333206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ca82ce508a341e8aef4a4f7af93e43f
+run_name: dazzling-crow-466
+run_uuid: 0ca82ce508a341e8aef4a4f7af93e43f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724506291912
+status: 3
+tags: []
+user_id: f81658c

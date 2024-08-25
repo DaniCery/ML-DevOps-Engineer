@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/a658e76560944d45bc5a5fa1737ac621/artifacts
+end_time: 1724512918630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a658e76560944d45bc5a5fa1737ac621
+run_name: efficient-ape-624
+run_uuid: a658e76560944d45bc5a5fa1737ac621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724512880844
+status: 4
+tags: []
+user_id: f81658c

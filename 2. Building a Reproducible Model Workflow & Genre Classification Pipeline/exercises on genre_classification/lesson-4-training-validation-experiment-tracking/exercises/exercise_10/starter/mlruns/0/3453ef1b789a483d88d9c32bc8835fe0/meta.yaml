@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/3453ef1b789a483d88d9c32bc8835fe0/artifacts
+end_time: 1724413962480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3453ef1b789a483d88d9c32bc8835fe0
+run_name: rogue-grouse-362
+run_uuid: 3453ef1b789a483d88d9c32bc8835fe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724413899956
+status: 3
+tags: []
+user_id: f81658c

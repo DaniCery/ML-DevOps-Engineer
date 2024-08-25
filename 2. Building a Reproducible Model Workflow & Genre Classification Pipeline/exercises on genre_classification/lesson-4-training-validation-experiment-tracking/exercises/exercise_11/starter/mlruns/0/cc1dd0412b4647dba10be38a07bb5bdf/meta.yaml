@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/cc1dd0412b4647dba10be38a07bb5bdf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc1dd0412b4647dba10be38a07bb5bdf
+run_name: likeable-cub-991
+run_uuid: cc1dd0412b4647dba10be38a07bb5bdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504137318
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/bad3d36d61774fa4a0a90733c72eddc5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bad3d36d61774fa4a0a90733c72eddc5
+run_name: rumbling-frog-129
+run_uuid: bad3d36d61774fa4a0a90733c72eddc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724519426767
+status: 1
+tags: []
+user_id: f81658c

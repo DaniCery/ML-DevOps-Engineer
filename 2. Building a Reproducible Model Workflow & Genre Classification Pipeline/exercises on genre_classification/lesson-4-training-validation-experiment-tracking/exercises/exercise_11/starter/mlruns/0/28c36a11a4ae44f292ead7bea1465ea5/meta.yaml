@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/28c36a11a4ae44f292ead7bea1465ea5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28c36a11a4ae44f292ead7bea1465ea5
+run_name: sincere-crab-320
+run_uuid: 28c36a11a4ae44f292ead7bea1465ea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520298129
+status: 1
+tags: []
+user_id: f81658c

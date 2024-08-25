@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/102900faa5014a6097cbee4310556684/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 102900faa5014a6097cbee4310556684
+run_name: aged-wolf-404
+run_uuid: 102900faa5014a6097cbee4310556684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520298136
+status: 1
+tags: []
+user_id: f81658c

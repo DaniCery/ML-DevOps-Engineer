@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/49d3549933714d09a129e7ca7c291a9e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49d3549933714d09a129e7ca7c291a9e
+run_name: victorious-sloth-964
+run_uuid: 49d3549933714d09a129e7ca7c291a9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724503985107
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,6 @@
+2024-08-24 15:37:22,020 Downloading and reading test artifact
+2024-08-24 15:37:23,321 Extracting target from dataframe
+2024-08-24 15:37:23,323 Splitting train/val
+2024-08-24 15:37:23,339 Setting up pipeline
+2024-08-24 15:37:23,342 Fitting
+2024-08-24 15:37:54,781 Scoring

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/6dbecb9f0baa41a1ad813382ea5557b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dbecb9f0baa41a1ad813382ea5557b0
+run_name: placid-cow-318
+run_uuid: 6dbecb9f0baa41a1ad813382ea5557b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520297837
+status: 1
+tags: []
+user_id: f81658c

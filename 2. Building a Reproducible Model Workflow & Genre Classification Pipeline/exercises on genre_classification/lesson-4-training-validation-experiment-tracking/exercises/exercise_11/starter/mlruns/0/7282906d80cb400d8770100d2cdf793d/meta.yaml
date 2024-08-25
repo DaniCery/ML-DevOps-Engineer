@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/7282906d80cb400d8770100d2cdf793d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7282906d80cb400d8770100d2cdf793d
+run_name: kindly-hog-806
+run_uuid: 7282906d80cb400d8770100d2cdf793d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504791093
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/b13ab207933343639077e4e4e0dde82a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b13ab207933343639077e4e4e0dde82a
+run_name: wise-duck-698
+run_uuid: b13ab207933343639077e4e4e0dde82a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724512712451
+status: 1
+tags: []
+user_id: f81658c

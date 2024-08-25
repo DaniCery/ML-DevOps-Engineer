@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/b540d99391ce4d2299a80b9078c63e90/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b540d99391ce4d2299a80b9078c63e90
+run_name: sassy-doe-219
+run_uuid: b540d99391ce4d2299a80b9078c63e90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724517855670
+status: 1
+tags: []
+user_id: f81658c

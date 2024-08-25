@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/5be699d8e4f34659ae685a730d9e9af2/artifacts
+end_time: 1724506994709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5be699d8e4f34659ae685a730d9e9af2
+run_name: exultant-koi-992
+run_uuid: 5be699d8e4f34659ae685a730d9e9af2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724506950881
+status: 3
+tags: []
+user_id: f81658c

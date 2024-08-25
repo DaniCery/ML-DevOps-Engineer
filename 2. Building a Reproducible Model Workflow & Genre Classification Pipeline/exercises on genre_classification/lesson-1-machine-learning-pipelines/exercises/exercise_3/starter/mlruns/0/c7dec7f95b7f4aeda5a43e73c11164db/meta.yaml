@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/c7dec7f95b7f4aeda5a43e73c11164db/artifacts
+end_time: 1724276413970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7dec7f95b7f4aeda5a43e73c11164db
+run_name: clumsy-carp-290
+run_uuid: c7dec7f95b7f4aeda5a43e73c11164db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724276318001
+status: 3
+tags: []
+user_id: f81658c

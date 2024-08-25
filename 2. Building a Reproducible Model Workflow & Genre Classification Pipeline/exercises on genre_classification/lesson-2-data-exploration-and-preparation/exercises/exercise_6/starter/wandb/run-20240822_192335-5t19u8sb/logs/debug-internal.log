@@ -1,0 +1,201 @@
+2024-08-22 19:23:35,252 INFO    StreamThr :8917 [internal.py:wandb_internal():86] W&B internal server running at pid: 8917, started at: 2024-08-22 19:23:35.251718
+2024-08-22 19:23:35,254 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: status
+2024-08-22 19:23:35,256 INFO    WriterThread:8917 [datastore.py:open_for_write():87] open: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/run-5t19u8sb.wandb
+2024-08-22 19:23:35,257 DEBUG   SenderThread:8917 [sender.py:send():378] send: header
+2024-08-22 19:23:35,280 DEBUG   SenderThread:8917 [sender.py:send():378] send: run
+2024-08-22 19:23:35,632 INFO    SenderThread:8917 [dir_watcher.py:__init__():211] watching files in: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files
+2024-08-22 19:23:35,632 INFO    SenderThread:8917 [sender.py:_start_run_threads():1099] run started: 5t19u8sb with start time 1724347415.251894
+2024-08-22 19:23:35,645 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: check_version
+2024-08-22 19:23:35,645 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: check_version
+2024-08-22 19:23:35,701 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: run_start
+2024-08-22 19:23:35,712 DEBUG   HandlerThread:8917 [system_info.py:__init__():26] System info init
+2024-08-22 19:23:35,712 DEBUG   HandlerThread:8917 [system_info.py:__init__():41] System info init done
+2024-08-22 19:23:35,712 INFO    HandlerThread:8917 [system_monitor.py:start():194] Starting system monitor
+2024-08-22 19:23:35,712 INFO    SystemMonitor:8917 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-08-22 19:23:35,712 INFO    HandlerThread:8917 [system_monitor.py:probe():214] Collecting system info
+2024-08-22 19:23:35,714 DEBUG   HandlerThread:8917 [system_info.py:probe():150] Probing system
+2024-08-22 19:23:35,714 INFO    SystemMonitor:8917 [interfaces.py:start():190] Started cpu monitoring
+2024-08-22 19:23:35,715 INFO    SystemMonitor:8917 [interfaces.py:start():190] Started disk monitoring
+2024-08-22 19:23:35,719 INFO    SystemMonitor:8917 [interfaces.py:start():190] Started gpuapple monitoring
+2024-08-22 19:23:35,720 INFO    SystemMonitor:8917 [interfaces.py:start():190] Started memory monitoring
+2024-08-22 19:23:35,721 INFO    SystemMonitor:8917 [interfaces.py:start():190] Started network monitoring
+2024-08-22 19:23:35,724 DEBUG   HandlerThread:8917 [system_info.py:_probe_git():135] Probing git
+2024-08-22 19:23:35,752 DEBUG   HandlerThread:8917 [system_info.py:_probe_git():143] Probing git done
+2024-08-22 19:23:35,753 DEBUG   HandlerThread:8917 [system_info.py:probe():198] Probing system done
+2024-08-22 19:23:35,753 DEBUG   HandlerThread:8917 [system_monitor.py:probe():223] {'os': 'macOS-12.7.1-arm64-arm-64bit', 'python': '3.12.5', 'heartbeatAt': '2024-08-22T17:23:35.715003', 'startedAt': '2024-08-22T17:23:35.243629', 'docker': None, 'cuda': None, 'args': ('--input_artifact', 'exercise_5/preprocessed_data.csv:latest', '--artifact_root', 'data', '--artifact_type', 'raw_data', '--test_size', '0.3', '--random_state', '42', '--stratify', 'genre'), 'state': 'running', 'program': '/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/run.py', 'codePathLocal': 'run.py', 'codePath': 'lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/run.py', 'git': {'remote': 'https://github.com/udacity/nd0821-c2-build-model-workflow-exercises.git', 'commit': '1d237f12348c3d915abc3ddb7cb68ef6ab597236'}, 'email': None, 'root': '/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises', 'host': 'MBP-di-Daniele.lan', 'username': 'f81658c', 'executable': '/opt/anaconda3/envs/mlflow-ecd34dd7c4d59631a93d3f9c3c0828d18c5e73d8/bin/python', 'cpu_count': 10, 'cpu_count_logical': 10, 'cpu_freq': {'current': 3228, 'min': 600, 'max': 3228}, 'cpu_freq_per_core': [{'current': 3228, 'min': 600, 'max': 3228}], 'disk': {'/': {'total': 926.3517189025879, 'used': 20.557537078857422}}, 'gpuapple': {'type': 'arm', 'vendor': 'Apple'}, 'memory': {'total': 32.0}}
+2024-08-22 19:23:35,753 INFO    HandlerThread:8917 [system_monitor.py:probe():224] Finished collecting system info
+2024-08-22 19:23:35,753 INFO    HandlerThread:8917 [system_monitor.py:probe():227] Publishing system info
+2024-08-22 19:23:35,753 DEBUG   HandlerThread:8917 [system_info.py:_save_conda():207] Saving list of conda packages installed into the current environment
+2024-08-22 19:23:36,091 DEBUG   HandlerThread:8917 [system_info.py:_save_conda():219] Saving conda packages done
+2024-08-22 19:23:36,092 INFO    HandlerThread:8917 [system_monitor.py:probe():229] Finished publishing system info
+2024-08-22 19:23:36,093 DEBUG   SenderThread:8917 [sender.py:send():378] send: files
+2024-08-22 19:23:36,093 INFO    SenderThread:8917 [sender.py:_save_file():1365] saving file wandb-metadata.json with policy now
+2024-08-22 19:23:36,112 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: python_packages
+2024-08-22 19:23:36,112 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: python_packages
+2024-08-22 19:23:36,113 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: stop_status
+2024-08-22 19:23:36,113 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: internal_messages
+2024-08-22 19:23:36,113 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: stop_status
+2024-08-22 19:23:36,378 DEBUG   SenderThread:8917 [sender.py:send():378] send: telemetry
+2024-08-22 19:23:36,638 INFO    Thread-12 :8917 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/requirements.txt
+2024-08-22 19:23:36,639 INFO    Thread-12 :8917 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/conda-environment.yaml
+2024-08-22 19:23:36,639 INFO    Thread-12 :8917 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/output.log
+2024-08-22 19:23:36,639 INFO    Thread-12 :8917 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/wandb-metadata.json
+2024-08-22 19:23:36,687 INFO    wandb-upload_0:8917 [upload_job.py:push():131] Uploaded file /var/folders/45/fj8r5p_92hq96t1_t88048jm0000gn/T/tmp4qd1orjdwandb/jaj6pztd-wandb-metadata.json
+2024-08-22 19:23:36,763 DEBUG   SenderThread:8917 [sender.py:send():378] send: use_artifact
+2024-08-22 19:23:37,580 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: log_artifact
+2024-08-22 19:23:37,580 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: log_artifact
+2024-08-22 19:23:38,649 INFO    Thread-12 :8917 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/output.log
+2024-08-22 19:23:40,779 INFO    wandb-upload_0:8917 [upload_job.py:push():89] Uploaded file /Users/f81658c/Library/Application Support/wandb/artifacts/staging/tmpsd0vtzpg
+2024-08-22 19:23:41,695 INFO    SenderThread:8917 [sender.py:send_request_log_artifact():1431] logged artifact data_train.csv - {'id': 'QXJ0aWZhY3Q6MTE2MTE3NzM4OA==', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjQxNjI0MDQyMA==', 'latestArtifact': None}}
+2024-08-22 19:23:41,696 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: status_report
+2024-08-22 19:23:42,495 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: log_artifact
+2024-08-22 19:23:42,495 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: log_artifact
+2024-08-22 19:23:44,585 INFO    wandb-upload_0:8917 [upload_job.py:push():89] Uploaded file /Users/f81658c/Library/Application Support/wandb/artifacts/staging/tmp4ffzqkep
+2024-08-22 19:23:44,684 INFO    Thread-12 :8917 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/output.log
+2024-08-22 19:23:45,381 INFO    SenderThread:8917 [sender.py:send_request_log_artifact():1431] logged artifact data_test.csv - {'id': 'QXJ0aWZhY3Q6MTE2MTE3NzUwNw==', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjQxNjI0MDQ0MA==', 'latestArtifact': None}}
+2024-08-22 19:23:46,004 DEBUG   SenderThread:8917 [sender.py:send():378] send: exit
+2024-08-22 19:23:46,004 INFO    SenderThread:8917 [sender.py:send_exit():585] handling exit code: 0
+2024-08-22 19:23:46,005 INFO    SenderThread:8917 [sender.py:send_exit():587] handling runtime: 10
+2024-08-22 19:23:46,006 INFO    SenderThread:8917 [sender.py:_save_file():1365] saving file wandb-summary.json with policy end
+2024-08-22 19:23:46,006 INFO    SenderThread:8917 [sender.py:send_exit():593] send defer
+2024-08-22 19:23:46,006 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:46,006 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 0
+2024-08-22 19:23:46,006 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:46,006 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 0
+2024-08-22 19:23:46,006 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 1
+2024-08-22 19:23:46,006 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:46,006 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 1
+2024-08-22 19:23:46,007 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:46,007 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 1
+2024-08-22 19:23:46,007 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 2
+2024-08-22 19:23:46,007 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:46,007 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 2
+2024-08-22 19:23:46,007 INFO    HandlerThread:8917 [system_monitor.py:finish():203] Stopping system monitor
+2024-08-22 19:23:46,007 DEBUG   SystemMonitor:8917 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-08-22 19:23:46,007 DEBUG   SystemMonitor:8917 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-08-22 19:23:46,007 DEBUG   SystemMonitor:8917 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-08-22 19:23:46,008 INFO    HandlerThread:8917 [interfaces.py:finish():202] Joined cpu monitor
+2024-08-22 19:23:46,008 INFO    HandlerThread:8917 [interfaces.py:finish():202] Joined disk monitor
+2024-08-22 19:23:46,512 INFO    HandlerThread:8917 [interfaces.py:finish():202] Joined gpuapple monitor
+2024-08-22 19:23:46,512 INFO    HandlerThread:8917 [interfaces.py:finish():202] Joined memory monitor
+2024-08-22 19:23:46,512 INFO    HandlerThread:8917 [interfaces.py:finish():202] Joined network monitor
+2024-08-22 19:23:46,512 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:46,512 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 2
+2024-08-22 19:23:46,512 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 3
+2024-08-22 19:23:46,512 DEBUG   SenderThread:8917 [sender.py:send():378] send: telemetry
+2024-08-22 19:23:46,512 DEBUG   SenderThread:8917 [sender.py:send():378] send: stats
+2024-08-22 19:23:46,513 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:46,513 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 3
+2024-08-22 19:23:46,513 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:46,513 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 3
+2024-08-22 19:23:46,513 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 4
+2024-08-22 19:23:46,513 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:46,513 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 4
+2024-08-22 19:23:46,513 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:46,513 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 4
+2024-08-22 19:23:46,513 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 5
+2024-08-22 19:23:46,513 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:46,513 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 5
+2024-08-22 19:23:46,514 DEBUG   SenderThread:8917 [sender.py:send():378] send: summary
+2024-08-22 19:23:46,514 INFO    SenderThread:8917 [sender.py:_save_file():1365] saving file wandb-summary.json with policy end
+2024-08-22 19:23:46,514 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:46,514 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 5
+2024-08-22 19:23:46,514 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 6
+2024-08-22 19:23:46,514 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:46,514 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 6
+2024-08-22 19:23:46,514 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:46,514 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 6
+2024-08-22 19:23:46,515 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: status_report
+2024-08-22 19:23:46,665 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 7
+2024-08-22 19:23:46,665 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:46,665 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 7
+2024-08-22 19:23:46,666 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:46,666 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 7
+2024-08-22 19:23:46,690 INFO    Thread-12 :8917 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/config.yaml
+2024-08-22 19:23:46,690 INFO    Thread-12 :8917 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/wandb-summary.json
+2024-08-22 19:23:47,010 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: poll_exit
+2024-08-22 19:23:48,415 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 8
+2024-08-22 19:23:48,416 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: poll_exit
+2024-08-22 19:23:48,416 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:48,417 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 8
+2024-08-22 19:23:48,417 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:48,418 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 8
+2024-08-22 19:23:48,418 INFO    SenderThread:8917 [job_builder.py:build():298] Attempting to build job artifact
+2024-08-22 19:23:48,419 INFO    SenderThread:8917 [job_builder.py:_get_source_type():428] is repo sourced job
+2024-08-22 19:23:48,422 INFO    SenderThread:8917 [job_builder.py:build():404] adding wandb-job metadata file
+2024-08-22 19:23:48,425 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 9
+2024-08-22 19:23:48,425 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:48,425 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 9
+2024-08-22 19:23:48,425 DEBUG   SenderThread:8917 [sender.py:send():378] send: artifact
+2024-08-22 19:23:48,699 INFO    Thread-12 :8917 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/output.log
+2024-08-22 19:23:48,899 INFO    SenderThread:8917 [sender.py:send_artifact():1443] sent artifact job-https___github.com_udacity_nd0821-c2-build-model-workflow-e..exploration-and-preparation_exercises_exercise_6_starter_run.py - {'id': 'QXJ0aWZhY3Q6MTE2MTE2NjQ5Nw==', 'state': 'COMMITTED', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjQxNjIzODY1Mg==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6MTE2MTE2NjQ5Nw==', 'versionIndex': 0}}}
+2024-08-22 19:23:48,900 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:48,900 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 9
+2024-08-22 19:23:48,900 INFO    SenderThread:8917 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-08-22 19:23:49,017 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: poll_exit
+2024-08-22 19:23:49,702 INFO    SenderThread:8917 [dir_watcher.py:finish():388] scan: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files
+2024-08-22 19:23:49,703 INFO    SenderThread:8917 [dir_watcher.py:finish():402] scan save: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/requirements.txt requirements.txt
+2024-08-22 19:23:49,704 INFO    SenderThread:8917 [dir_watcher.py:finish():402] scan save: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/output.log output.log
+2024-08-22 19:23:49,706 INFO    SenderThread:8917 [dir_watcher.py:finish():402] scan save: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/config.yaml config.yaml
+2024-08-22 19:23:49,706 INFO    SenderThread:8917 [dir_watcher.py:finish():402] scan save: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/wandb-summary.json wandb-summary.json
+2024-08-22 19:23:49,708 INFO    SenderThread:8917 [dir_watcher.py:finish():402] scan save: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/conda-environment.yaml conda-environment.yaml
+2024-08-22 19:23:49,711 INFO    SenderThread:8917 [dir_watcher.py:finish():402] scan save: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/wandb-metadata.json wandb-metadata.json
+2024-08-22 19:23:49,713 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 10
+2024-08-22 19:23:49,713 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: poll_exit
+2024-08-22 19:23:49,713 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:49,714 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 10
+2024-08-22 19:23:49,714 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:49,714 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 10
+2024-08-22 19:23:49,714 INFO    SenderThread:8917 [file_pusher.py:finish():172] shutting down file pusher
+2024-08-22 19:23:50,023 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: poll_exit
+2024-08-22 19:23:50,024 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: poll_exit
+2024-08-22 19:23:50,096 INFO    wandb-upload_0:8917 [upload_job.py:push():131] Uploaded file /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/requirements.txt
+2024-08-22 19:23:50,154 INFO    wandb-upload_3:8917 [upload_job.py:push():131] Uploaded file /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/wandb-summary.json
+2024-08-22 19:23:50,181 INFO    wandb-upload_2:8917 [upload_job.py:push():131] Uploaded file /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/config.yaml
+2024-08-22 19:23:50,301 INFO    wandb-upload_1:8917 [upload_job.py:push():131] Uploaded file /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/output.log
+2024-08-22 19:23:50,428 INFO    wandb-upload_4:8917 [upload_job.py:push():131] Uploaded file /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/files/conda-environment.yaml
+2024-08-22 19:23:50,634 INFO    Thread-11 (_thread_body):8917 [sender.py:transition_state():613] send defer: 11
+2024-08-22 19:23:50,635 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:50,635 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 11
+2024-08-22 19:23:50,636 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:50,636 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 11
+2024-08-22 19:23:50,636 INFO    SenderThread:8917 [file_pusher.py:join():178] waiting for file pusher
+2024-08-22 19:23:50,638 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 12
+2024-08-22 19:23:50,638 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:50,638 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 12
+2024-08-22 19:23:50,638 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:50,638 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 12
+2024-08-22 19:23:50,639 INFO    SenderThread:8917 [file_stream.py:finish():595] file stream finish called
+2024-08-22 19:23:50,787 INFO    SenderThread:8917 [file_stream.py:finish():599] file stream finish is done
+2024-08-22 19:23:50,787 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 13
+2024-08-22 19:23:50,788 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:50,788 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 13
+2024-08-22 19:23:50,788 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:50,789 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 13
+2024-08-22 19:23:50,789 INFO    SenderThread:8917 [sender.py:transition_state():613] send defer: 14
+2024-08-22 19:23:50,789 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: defer
+2024-08-22 19:23:50,789 INFO    HandlerThread:8917 [handler.py:handle_request_defer():172] handle defer: 14
+2024-08-22 19:23:50,790 DEBUG   SenderThread:8917 [sender.py:send():378] send: final
+2024-08-22 19:23:50,790 DEBUG   SenderThread:8917 [sender.py:send():378] send: footer
+2024-08-22 19:23:50,790 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: defer
+2024-08-22 19:23:50,790 INFO    SenderThread:8917 [sender.py:send_request_defer():609] handle sender defer: 14
+2024-08-22 19:23:50,791 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: poll_exit
+2024-08-22 19:23:50,792 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: poll_exit
+2024-08-22 19:23:50,792 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: server_info
+2024-08-22 19:23:50,792 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: poll_exit
+2024-08-22 19:23:50,793 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: get_summary
+2024-08-22 19:23:50,793 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: poll_exit
+2024-08-22 19:23:50,793 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: sampled_history
+2024-08-22 19:23:50,793 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: server_info
+2024-08-22 19:23:50,794 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: internal_messages
+2024-08-22 19:23:50,795 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: job_info
+2024-08-22 19:23:50,934 DEBUG   SenderThread:8917 [sender.py:send_request():405] send_request: job_info
+2024-08-22 19:23:50,935 INFO    MainThread:8917 [wandb_run.py:_footer_history_summary_info():3851] rendering history
+2024-08-22 19:23:50,935 INFO    MainThread:8917 [wandb_run.py:_footer_history_summary_info():3883] rendering summary
+2024-08-22 19:23:50,935 INFO    MainThread:8917 [wandb_run.py:_footer_sync_info():3810] logging synced files
+2024-08-22 19:23:50,937 DEBUG   HandlerThread:8917 [handler.py:handle_request():146] handle_request: shutdown
+2024-08-22 19:23:50,938 INFO    HandlerThread:8917 [handler.py:finish():869] shutting down handler
+2024-08-22 19:23:51,800 INFO    WriterThread:8917 [datastore.py:close():296] close: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/wandb/run-20240822_192335-5t19u8sb/run-5t19u8sb.wandb
+2024-08-22 19:23:51,937 INFO    SenderThread:8917 [sender.py:finish():1521] shutting down sender
+2024-08-22 19:23:51,938 INFO    SenderThread:8917 [file_pusher.py:finish():172] shutting down file pusher
+2024-08-22 19:23:51,938 INFO    SenderThread:8917 [file_pusher.py:join():178] waiting for file pusher

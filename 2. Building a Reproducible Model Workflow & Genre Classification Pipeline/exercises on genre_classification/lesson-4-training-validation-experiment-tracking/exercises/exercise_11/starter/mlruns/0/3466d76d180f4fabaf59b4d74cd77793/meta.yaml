@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/3466d76d180f4fabaf59b4d74cd77793/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3466d76d180f4fabaf59b4d74cd77793
+run_name: valuable-dog-554
+run_uuid: 3466d76d180f4fabaf59b4d74cd77793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724507803421
+status: 1
+tags: []
+user_id: f81658c

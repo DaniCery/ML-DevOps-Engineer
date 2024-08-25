@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/371aabd305644d549d34842ff365caff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 371aabd305644d549d34842ff365caff
+run_name: kindly-ram-401
+run_uuid: 371aabd305644d549d34842ff365caff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724508232272
+status: 1
+tags: []
+user_id: f81658c

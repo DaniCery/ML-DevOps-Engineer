@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/9826fd3699c8402f90a2da10844cd43b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9826fd3699c8402f90a2da10844cd43b
+run_name: fortunate-dove-480
+run_uuid: 9826fd3699c8402f90a2da10844cd43b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724513048445
+status: 1
+tags: []
+user_id: f81658c

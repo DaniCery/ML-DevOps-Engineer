@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/20283d599e8841feb4e50fbc9d63724b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20283d599e8841feb4e50fbc9d63724b
+run_name: mysterious-dove-991
+run_uuid: 20283d599e8841feb4e50fbc9d63724b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724505125160
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/5636df0b42914bc7afc0c681003137f3/artifacts
+end_time: 1724263174431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5636df0b42914bc7afc0c681003137f3
+run_name: persistent-stag-613
+run_uuid: 5636df0b42914bc7afc0c681003137f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724263173782
+status: 4
+tags: []
+user_id: root

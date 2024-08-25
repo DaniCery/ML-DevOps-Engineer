@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/706138b0c21e43709ebade4d79390184/artifacts
+end_time: 1724507084756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 706138b0c21e43709ebade4d79390184
+run_name: blushing-lark-225
+run_uuid: 706138b0c21e43709ebade4d79390184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724507041823
+status: 3
+tags: []
+user_id: f81658c

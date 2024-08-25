@@ -1,0 +1,67 @@
+[1mcollected 3 items                                                                                                                                                                    
+test_data.py::test_column_presence_and_type [32mPASSED
+test_data.py::test_class_names [32mPASSED
+test_data.py::test_column_ranges [31mFAILED
+====================================================================================== FAILURES ======================================================================================
+[31m[1m_________________________________________________________________________________ test_column_ranges _________________________________________________________________________________
+data =        Unnamed: 0  danceability  energy  key  ...      genre                                      song_name           ...            NaN       Best of Hardstyle 2020                         Best of Hardstyle 2020
+[41975 rows x 19 columns]
+    def test_column_ranges(data):
+        ranges = {
+            "time_signature": (1, 5),
+            "key": (0, 11),
+            "danceability": (0, 1),
+            "energy": (0, 1),
+            "loudness": (-35, 5),
+            "speechiness": (0, 1),
+            "acousticness": (0, 1),
+            "instrumentalness": (0, 1),
+            "liveness": (0, 1),
+            "valence": (0, 1),
+            "tempo": (50, 250),
+            "duration_ms": (20000, 1000000),
+        }
+        for col_name, (minimum, maximum) in ranges.items():
+            # YOUR CODE HERE: check that the values in the column col_name are within the expected range
+            # HINT: look at the .between method of pandas, and then use .all() like in the previous
+            # test
+>           data.col_name.dropna().between(minimum, maximum).all()
+[31m[1mtest_data.py[39m[22m:99:
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+self =        Unnamed: 0  danceability  energy  key  ...      genre                                      song_name           ...            NaN       Best of Hardstyle 2020                         Best of Hardstyle 2020
+[41975 rows x 19 columns]
+name = 'col_name'
+    @final
+    def __getattr__(self, name: str):
+        """
+        After regular attribute access, try looking up the name
+        This allows simpler access to columns for interactive use.
+        """
+        # Note: obj.x will always call obj.__getattribute__('x') prior to
+        # calling obj.__getattr__('x').
+        if (
+            name not in self._internal_names_set
+            and name not in self._metadata
+            and name not in self._accessors
+            and self._info_axis._can_hold_identifiers_and_holds_name(name)
+        ):
+            return self[name]
+>       return object.__getattribute__(self, name)
+[31m[1mE       AttributeError: 'DataFrame' object has no attribute 'col_name'. Did you mean: 'song_name'?
+[31m[1m/opt/anaconda3/envs/mlflow-7055caff924e2929b635405af43bd3b748481173/lib/python3.12/site-packages/pandas/core/generic.py[39m[22m:6296: AttributeError
+[33m================================================================================== warnings summary ==================================================================================
+<frozen importlib._bootstrap>:488
+  <frozen importlib._bootstrap>:488: DeprecationWarning: Type google._upb._message.MessageMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+<frozen importlib._bootstrap>:488
+  <frozen importlib._bootstrap>:488: DeprecationWarning: Type google._upb._message.ScalarMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+../../../../../../../../../../opt/anaconda3/envs/mlflow-7055caff924e2929b635405af43bd3b748481173/lib/python3.12/site-packages/wandb/analytics/sentry.py:90
+  /opt/anaconda3/envs/mlflow-7055caff924e2929b635405af43bd3b748481173/lib/python3.12/site-packages/wandb/analytics/sentry.py:90: SentryHubDeprecationWarning: `sentry_sdk.Hub` is deprecated and will be removed in a future major release. Please consult our 1.x to 2.x migration guide for details on how to migrate `Hub` usage to the new API: https://docs.sentry.io/platforms/python/migration/1.x-to-2.x
+    self.hub = sentry_sdk.Hub(client)
+../../../../../../../../../../opt/anaconda3/envs/mlflow-7055caff924e2929b635405af43bd3b748481173/lib/python3.12/site-packages/google/protobuf/internal/well_known_types.py:174: 3 warnings
+test_data.py: 9 warnings
+  /opt/anaconda3/envs/mlflow-7055caff924e2929b635405af43bd3b748481173/lib/python3.12/site-packages/google/protobuf/internal/well_known_types.py:174: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    self.FromDatetime(datetime.datetime.utcnow())
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+[36m[1m============================================================================== short test summary info ===============================================================================
+[31mFAILED[39m test_data.py::[1mtest_column_ranges[22m - AttributeError: 'DataFrame' object has no attribute 'col_name'. Did you mean: 'song_name'?
+[31m====================================================================== [1m1 failed[39m[22m, [32m2 passed[39m, [33m15 warnings[31m in 5.93s ======================================================================

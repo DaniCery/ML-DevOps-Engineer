@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/3b7c21ab00b7459fbde118dce43ce8ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b7c21ab00b7459fbde118dce43ce8ca
+run_name: honorable-wren-335
+run_uuid: 3b7c21ab00b7459fbde118dce43ce8ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520236856
+status: 1
+tags: []
+user_id: f81658c

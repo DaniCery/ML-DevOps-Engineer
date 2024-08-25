@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/a2a291389e524e489534794f266b7675/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2a291389e524e489534794f266b7675
+run_name: dapper-wren-735
+run_uuid: a2a291389e524e489534794f266b7675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520297849
+status: 1
+tags: []
+user_id: f81658c

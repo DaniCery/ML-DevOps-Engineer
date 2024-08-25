@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ce338e4572514c57bae179948463ad45/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce338e4572514c57bae179948463ad45
+run_name: resilient-asp-796
+run_uuid: ce338e4572514c57bae179948463ad45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724519426167
+status: 1
+tags: []
+user_id: f81658c

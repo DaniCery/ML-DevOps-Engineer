@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/07da995d09eb4f87b8ba4ac2f7e5ec2e/artifacts
+end_time: 1724514118135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07da995d09eb4f87b8ba4ac2f7e5ec2e
+run_name: righteous-swan-866
+run_uuid: 07da995d09eb4f87b8ba4ac2f7e5ec2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724514097195
+status: 4
+tags: []
+user_id: f81658c

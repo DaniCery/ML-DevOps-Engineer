@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/26f496c69d8c4345a6b27c5960eeaf02/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26f496c69d8c4345a6b27c5960eeaf02
+run_name: glamorous-shoat-598
+run_uuid: 26f496c69d8c4345a6b27c5960eeaf02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724518993861
+status: 1
+tags: []
+user_id: f81658c

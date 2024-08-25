@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/31c6ce2eb66e4526bedf76d00d8e7a30/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31c6ce2eb66e4526bedf76d00d8e7a30
+run_name: carefree-rook-847
+run_uuid: 31c6ce2eb66e4526bedf76d00d8e7a30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724508232574
+status: 1
+tags: []
+user_id: f81658c

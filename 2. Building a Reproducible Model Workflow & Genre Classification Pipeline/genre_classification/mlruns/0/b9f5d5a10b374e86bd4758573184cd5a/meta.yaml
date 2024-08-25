@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/b9f5d5a10b374e86bd4758573184cd5a/artifacts
+end_time: 1724596277848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9f5d5a10b374e86bd4758573184cd5a
+run_name: thundering-stoat-580
+run_uuid: b9f5d5a10b374e86bd4758573184cd5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724596223889
+status: 3
+tags: []
+user_id: f81658c

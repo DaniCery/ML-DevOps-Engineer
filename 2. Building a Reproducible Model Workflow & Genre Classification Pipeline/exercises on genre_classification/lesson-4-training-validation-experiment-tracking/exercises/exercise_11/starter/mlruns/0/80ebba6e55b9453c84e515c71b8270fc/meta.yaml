@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/80ebba6e55b9453c84e515c71b8270fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80ebba6e55b9453c84e515c71b8270fc
+run_name: nebulous-trout-645
+run_uuid: 80ebba6e55b9453c84e515c71b8270fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724518959743
+status: 1
+tags: []
+user_id: f81658c

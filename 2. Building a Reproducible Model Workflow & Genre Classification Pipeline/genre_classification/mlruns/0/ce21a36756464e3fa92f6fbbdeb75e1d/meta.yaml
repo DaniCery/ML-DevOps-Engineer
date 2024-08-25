@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/ce21a36756464e3fa92f6fbbdeb75e1d/artifacts
+end_time: 1724601577034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce21a36756464e3fa92f6fbbdeb75e1d
+run_name: rambunctious-frog-46
+run_uuid: ce21a36756464e3fa92f6fbbdeb75e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724601560512
+status: 3
+tags: []
+user_id: f81658c

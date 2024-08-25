@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/dc6e4ff8e44b457c95c74ac4a0895247/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc6e4ff8e44b457c95c74ac4a0895247
+run_name: mercurial-colt-577
+run_uuid: dc6e4ff8e44b457c95c74ac4a0895247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724503985108
+status: 1
+tags: []
+user_id: f81658c

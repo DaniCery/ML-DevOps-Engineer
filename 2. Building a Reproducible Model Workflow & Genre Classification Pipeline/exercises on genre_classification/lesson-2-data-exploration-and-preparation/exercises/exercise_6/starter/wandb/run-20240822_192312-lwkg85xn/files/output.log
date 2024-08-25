@@ -1,0 +1,13 @@
+2024-08-22 19:23:13,512 Downloading and reading artifact
+2024-08-22 19:23:14,596 Splitting data into train and test
+Traceback (most recent call last):
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/run.py", line 124, in <module>
+    go(args)
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/run.py", line 35, in go
+    splits["train"], splits["test"] = train_test_split(df,
+                                     ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/mlflow-ecd34dd7c4d59631a93d3f9c3c0828d18c5e73d8/lib/python3.12/site-packages/sklearn/utils/_param_validation.py", line 203, in wrapper
+    validate_parameter_constraints(
+  File "/opt/anaconda3/envs/mlflow-ecd34dd7c4d59631a93d3f9c3c0828d18c5e73d8/lib/python3.12/site-packages/sklearn/utils/_param_validation.py", line 95, in validate_parameter_constraints
+    raise InvalidParameterError(
+sklearn.utils._param_validation.InvalidParameterError: The 'stratify' parameter of train_test_split must be an array-like or None. Got 'genre' instead.

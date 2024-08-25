@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/f0f292c19de541eaaf27e81839ade24e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0f292c19de541eaaf27e81839ade24e
+run_name: agreeable-crab-837
+run_uuid: f0f292c19de541eaaf27e81839ade24e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504791232
+status: 1
+tags: []
+user_id: f81658c

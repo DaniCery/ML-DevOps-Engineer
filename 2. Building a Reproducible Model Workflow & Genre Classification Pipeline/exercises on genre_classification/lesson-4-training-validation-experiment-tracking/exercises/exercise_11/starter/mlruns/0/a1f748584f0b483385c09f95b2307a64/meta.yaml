@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/a1f748584f0b483385c09f95b2307a64/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1f748584f0b483385c09f95b2307a64
+run_name: exultant-snail-82
+run_uuid: a1f748584f0b483385c09f95b2307a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724503984197
+status: 1
+tags: []
+user_id: f81658c

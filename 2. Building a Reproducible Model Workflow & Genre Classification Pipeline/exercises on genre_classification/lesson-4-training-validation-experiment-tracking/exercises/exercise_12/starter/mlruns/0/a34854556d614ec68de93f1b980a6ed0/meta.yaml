@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/a34854556d614ec68de93f1b980a6ed0/artifacts
+end_time: 1724513988444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a34854556d614ec68de93f1b980a6ed0
+run_name: upset-dolphin-50
+run_uuid: a34854556d614ec68de93f1b980a6ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724513869732
+status: 4
+tags: []
+user_id: f81658c

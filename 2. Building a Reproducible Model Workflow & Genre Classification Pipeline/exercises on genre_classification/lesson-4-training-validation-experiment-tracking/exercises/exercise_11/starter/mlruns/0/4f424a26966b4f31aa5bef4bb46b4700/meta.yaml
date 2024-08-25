@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/4f424a26966b4f31aa5bef4bb46b4700/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f424a26966b4f31aa5bef4bb46b4700
+run_name: rare-bird-716
+run_uuid: 4f424a26966b4f31aa5bef4bb46b4700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504137546
+status: 1
+tags: []
+user_id: f81658c

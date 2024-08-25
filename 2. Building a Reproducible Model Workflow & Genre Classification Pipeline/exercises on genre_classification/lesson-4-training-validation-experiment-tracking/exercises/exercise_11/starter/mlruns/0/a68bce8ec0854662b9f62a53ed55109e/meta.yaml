@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/a68bce8ec0854662b9f62a53ed55109e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a68bce8ec0854662b9f62a53ed55109e
+run_name: selective-fly-780
+run_uuid: a68bce8ec0854662b9f62a53ed55109e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724512711751
+status: 1
+tags: []
+user_id: f81658c

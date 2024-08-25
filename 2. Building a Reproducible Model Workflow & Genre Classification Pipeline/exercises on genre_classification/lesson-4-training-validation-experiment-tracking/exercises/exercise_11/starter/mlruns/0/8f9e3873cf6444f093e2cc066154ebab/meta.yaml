@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/8f9e3873cf6444f093e2cc066154ebab/artifacts
+end_time: 1724506136109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f9e3873cf6444f093e2cc066154ebab
+run_name: youthful-bass-198
+run_uuid: 8f9e3873cf6444f093e2cc066154ebab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724506102635
+status: 3
+tags: []
+user_id: f81658c

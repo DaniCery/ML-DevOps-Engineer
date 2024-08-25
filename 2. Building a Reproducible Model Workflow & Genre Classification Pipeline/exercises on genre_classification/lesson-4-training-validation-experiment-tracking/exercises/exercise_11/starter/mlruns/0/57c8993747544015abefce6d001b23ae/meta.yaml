@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/57c8993747544015abefce6d001b23ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57c8993747544015abefce6d001b23ae
+run_name: funny-lynx-939
+run_uuid: 57c8993747544015abefce6d001b23ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520237389
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/6b04b04244e046309aa7dff3581e07dd/artifacts
+end_time: 1724508233241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b04b04244e046309aa7dff3581e07dd
+run_name: burly-elk-898
+run_uuid: 6b04b04244e046309aa7dff3581e07dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724508186770
+status: 4
+tags: []
+user_id: f81658c

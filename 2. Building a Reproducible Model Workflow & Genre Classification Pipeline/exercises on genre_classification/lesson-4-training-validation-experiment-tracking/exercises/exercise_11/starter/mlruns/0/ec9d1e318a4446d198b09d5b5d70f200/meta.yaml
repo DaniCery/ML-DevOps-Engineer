@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ec9d1e318a4446d198b09d5b5d70f200/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec9d1e318a4446d198b09d5b5d70f200
+run_name: righteous-hound-383
+run_uuid: ec9d1e318a4446d198b09d5b5d70f200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724518994098
+status: 1
+tags: []
+user_id: f81658c

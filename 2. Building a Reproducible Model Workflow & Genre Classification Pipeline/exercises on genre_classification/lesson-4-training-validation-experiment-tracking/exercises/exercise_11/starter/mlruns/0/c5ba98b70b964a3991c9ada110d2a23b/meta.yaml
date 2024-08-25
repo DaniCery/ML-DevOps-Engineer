@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/c5ba98b70b964a3991c9ada110d2a23b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5ba98b70b964a3991c9ada110d2a23b
+run_name: fearless-mule-485
+run_uuid: c5ba98b70b964a3991c9ada110d2a23b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724517665137
+status: 1
+tags: []
+user_id: f81658c

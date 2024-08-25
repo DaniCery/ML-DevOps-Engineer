@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/af6c8e37252244a489165c61c96ec555/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af6c8e37252244a489165c61c96ec555
+run_name: nosy-dove-689
+run_uuid: af6c8e37252244a489165c61c96ec555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724507803965
+status: 1
+tags: []
+user_id: f81658c

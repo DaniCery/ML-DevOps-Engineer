@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/40716c36439948ac8ad6f33aa67796f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40716c36439948ac8ad6f33aa67796f7
+run_name: ambitious-duck-267
+run_uuid: 40716c36439948ac8ad6f33aa67796f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724517855811
+status: 1
+tags: []
+user_id: f81658c

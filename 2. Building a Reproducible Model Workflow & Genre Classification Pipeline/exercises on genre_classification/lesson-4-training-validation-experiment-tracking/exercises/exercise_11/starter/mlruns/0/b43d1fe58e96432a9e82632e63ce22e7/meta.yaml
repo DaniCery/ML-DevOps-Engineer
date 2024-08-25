@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/b43d1fe58e96432a9e82632e63ce22e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b43d1fe58e96432a9e82632e63ce22e7
+run_name: upset-swan-792
+run_uuid: b43d1fe58e96432a9e82632e63ce22e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724519426796
+status: 1
+tags: []
+user_id: f81658c

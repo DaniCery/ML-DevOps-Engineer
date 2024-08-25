@@ -1,0 +1,13 @@
+
+2024-08-23 12:54:30,660 Downloading and reading test artifact
+2024-08-23 12:54:32,800 Extracting target from dataframe
+2024-08-23 12:54:32,803 Splitting train/val
+2024-08-23 12:54:32,820 Setting up pipeline
+Traceback (most recent call last):
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/random_forest/run.py", line 223, in <module>
+    go(args)
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/random_forest/run.py", line 44, in go
+    pipe = get_inference_pipeline(args)
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/random_forest/run.py", line 194, in get_inference_pipeline
+    ("preprocessor", preprocessor()),
+TypeError: 'ColumnTransformer' object is not callable

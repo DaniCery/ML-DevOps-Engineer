@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/2e67d3cbc7c0487bb0082cc58f45304a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e67d3cbc7c0487bb0082cc58f45304a
+run_name: upbeat-skunk-19
+run_uuid: 2e67d3cbc7c0487bb0082cc58f45304a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724518937917
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/331b74a913b1473ab3d0703edd4e8a21/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 331b74a913b1473ab3d0703edd4e8a21
+run_name: thundering-goose-16
+run_uuid: 331b74a913b1473ab3d0703edd4e8a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724508232537
+status: 1
+tags: []
+user_id: f81658c

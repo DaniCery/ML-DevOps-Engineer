@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/069168fc561b42af9988d049eb796a3a/artifacts
+end_time: 1724520114338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 069168fc561b42af9988d049eb796a3a
+run_name: rambunctious-kit-129
+run_uuid: 069168fc561b42af9988d049eb796a3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520113083
+status: 4
+tags: []
+user_id: f81658c

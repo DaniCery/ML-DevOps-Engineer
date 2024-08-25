@@ -1,0 +1,58 @@
+{
+    "os": "macOS-12.7.1-arm64-arm-64bit",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-08-25T15:32:21.502633",
+    "startedAt": "2024-08-25T15:32:20.998232",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "preprocessed_data",
+        "--artifact_description",
+        "Data preprocessing applied"
+    ],
+    "state": "running",
+    "program": "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/preprocess/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/preprocess/run.py",
+    "git": {
+        "remote": "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises.git",
+        "commit": "1d237f12348c3d915abc3ddb7cb68ef6ab597236"
+    },
+    "email": null,
+    "root": "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises",
+    "host": "MBP-di-Daniele.Home",
+    "username": "f81658c",
+    "executable": "/opt/anaconda3/envs/mlflow-b662b891138f514f86ea83df6f384dc4f23b43c1/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "cpu_freq": {
+        "current": 3228,
+        "min": 600,
+        "max": 3228
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3228,
+            "min": 600,
+            "max": 3228
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 20.557537078857422
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

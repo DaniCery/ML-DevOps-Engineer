@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/fe93e6a0f4f445e5bbb41641583a7f18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe93e6a0f4f445e5bbb41641583a7f18
+run_name: blushing-moose-547
+run_uuid: fe93e6a0f4f445e5bbb41641583a7f18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504137861
+status: 1
+tags: []
+user_id: f81658c

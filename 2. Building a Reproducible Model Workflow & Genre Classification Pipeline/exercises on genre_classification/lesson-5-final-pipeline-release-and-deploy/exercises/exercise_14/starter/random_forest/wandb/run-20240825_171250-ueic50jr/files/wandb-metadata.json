@@ -1,0 +1,62 @@
+{
+    "os": "macOS-12.7.1-arm64-arm-64bit",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-08-25T15:12:50.526471",
+    "startedAt": "2024-08-25T15:12:50.032204",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "preprocessed_data.csv:latest",
+        "--model_config",
+        "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/outputs/2024-08-25/17-10-02/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises.git",
+        "commit": "1d237f12348c3d915abc3ddb7cb68ef6ab597236"
+    },
+    "email": null,
+    "root": "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises",
+    "host": "MBP-di-Daniele.Home",
+    "username": "f81658c",
+    "executable": "/opt/anaconda3/envs/mlflow-b71ce8844054e0c802e265ec9d1ee4558a5639cf/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "cpu_freq": {
+        "current": 3228,
+        "min": 600,
+        "max": 3228
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3228,
+            "min": 600,
+            "max": 3228
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 20.557537078857422
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

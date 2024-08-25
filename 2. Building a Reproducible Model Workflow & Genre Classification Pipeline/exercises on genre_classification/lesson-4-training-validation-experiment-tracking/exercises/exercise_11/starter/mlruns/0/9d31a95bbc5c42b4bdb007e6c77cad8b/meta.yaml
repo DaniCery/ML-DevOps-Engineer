@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/9d31a95bbc5c42b4bdb007e6c77cad8b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d31a95bbc5c42b4bdb007e6c77cad8b
+run_name: enchanting-crab-477
+run_uuid: 9d31a95bbc5c42b4bdb007e6c77cad8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724512712373
+status: 1
+tags: []
+user_id: f81658c

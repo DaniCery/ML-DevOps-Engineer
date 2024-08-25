@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/f04ab4adc9ed4630a7120d5af7316535/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f04ab4adc9ed4630a7120d5af7316535
+run_name: polite-slug-372
+run_uuid: f04ab4adc9ed4630a7120d5af7316535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724517855437
+status: 1
+tags: []
+user_id: f81658c

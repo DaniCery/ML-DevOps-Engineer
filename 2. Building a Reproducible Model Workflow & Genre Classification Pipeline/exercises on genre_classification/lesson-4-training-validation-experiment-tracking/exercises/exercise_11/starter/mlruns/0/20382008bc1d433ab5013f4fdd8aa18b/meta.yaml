@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/20382008bc1d433ab5013f4fdd8aa18b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20382008bc1d433ab5013f4fdd8aa18b
+run_name: magnificent-cub-451
+run_uuid: 20382008bc1d433ab5013f4fdd8aa18b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520297439
+status: 1
+tags: []
+user_id: f81658c

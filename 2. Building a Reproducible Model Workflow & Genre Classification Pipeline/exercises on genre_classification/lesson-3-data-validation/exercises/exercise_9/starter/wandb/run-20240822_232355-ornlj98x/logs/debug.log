@@ -1,0 +1,29 @@
+2024-08-22 23:23:55,354 INFO    MainThread:11540 [wandb_setup.py:_flush():76] Current SDK version is 0.17.7
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_setup.py:_flush():76] Configure stats pid to 11540
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_setup.py:_flush():76] Loading settings from /Users/f81658c/.config/wandb/settings
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_setup.py:_flush():76] Loading settings from /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_9/starter/wandb/settings
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-08-22 23:23:55,355 WARNING MainThread:11540 [wandb_setup.py:_flush():76] Could not save program above cwd: /opt/anaconda3/envs/udacity_mldevops/bin/pytest
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': None, 'program_abspath': '/opt/anaconda3/envs/udacity_mldevops/bin/pytest', 'program': '/opt/anaconda3/envs/udacity_mldevops/bin/pytest'}
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_init.py:_log_setup():524] Logging user logs to /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_9/starter/wandb/run-20240822_232355-ornlj98x/logs/debug.log
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_init.py:_log_setup():525] Logging internal logs to /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_9/starter/wandb/run-20240822_232355-ornlj98x/logs/debug-internal.log
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_init.py:init():607] calling init triggers
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_init.py:init():614] wandb.init called with sweep_config: {}
+config: {}
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_init.py:init():657] starting backend
+2024-08-22 23:23:55,355 INFO    MainThread:11540 [wandb_init.py:init():661] setting up manager
+2024-08-22 23:23:55,356 INFO    MainThread:11540 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-08-22 23:23:55,358 INFO    MainThread:11540 [wandb_init.py:init():669] backend started and connected
+2024-08-22 23:23:55,360 INFO    MainThread:11540 [wandb_init.py:init():764] updated telemetry
+2024-08-22 23:23:55,378 INFO    MainThread:11540 [wandb_init.py:init():797] communicating run to backend with 90.0 second timeout
+2024-08-22 23:23:55,915 INFO    MainThread:11540 [wandb_run.py:_on_init():2479] communicating current version
+2024-08-22 23:23:55,971 INFO    MainThread:11540 [wandb_run.py:_on_init():2488] got version response 
+2024-08-22 23:23:55,972 INFO    MainThread:11540 [wandb_init.py:init():848] starting run threads in backend
+2024-08-22 23:23:57,691 INFO    MainThread:11540 [wandb_run.py:_console_start():2457] atexit reg
+2024-08-22 23:23:57,691 INFO    MainThread:11540 [wandb_run.py:_redirect():2303] redirect: wrap_raw
+2024-08-22 23:23:57,691 INFO    MainThread:11540 [wandb_run.py:_redirect():2368] Wrapping output streams.
+2024-08-22 23:23:57,691 INFO    MainThread:11540 [wandb_run.py:_redirect():2393] Redirects installed.
+2024-08-22 23:23:57,692 INFO    MainThread:11540 [wandb_init.py:init():891] run started, returning control to user process
+2024-08-22 23:24:07,204 WARNING MsgRouterThr:11540 [router.py:message_loop():77] message_loop has been closed

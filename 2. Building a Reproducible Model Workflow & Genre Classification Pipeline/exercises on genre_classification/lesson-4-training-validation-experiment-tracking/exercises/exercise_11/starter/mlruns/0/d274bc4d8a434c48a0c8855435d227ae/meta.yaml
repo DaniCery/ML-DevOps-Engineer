@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/d274bc4d8a434c48a0c8855435d227ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d274bc4d8a434c48a0c8855435d227ae
+run_name: silent-finch-576
+run_uuid: d274bc4d8a434c48a0c8855435d227ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724513049153
+status: 1
+tags: []
+user_id: f81658c

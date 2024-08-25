@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_7/starter/mlruns/0/d223898e765c42f28444fb3477a7098a/artifacts
+end_time: 1724351885733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d223898e765c42f28444fb3477a7098a
+run_name: mysterious-toad-698
+run_uuid: d223898e765c42f28444fb3477a7098a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724351877213
+status: 3
+tags: []
+user_id: f81658c

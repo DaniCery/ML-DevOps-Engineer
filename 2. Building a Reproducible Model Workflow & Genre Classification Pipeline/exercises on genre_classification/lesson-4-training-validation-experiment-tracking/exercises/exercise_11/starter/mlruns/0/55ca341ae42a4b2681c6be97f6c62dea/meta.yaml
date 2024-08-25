@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/55ca341ae42a4b2681c6be97f6c62dea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55ca341ae42a4b2681c6be97f6c62dea
+run_name: luminous-fish-681
+run_uuid: 55ca341ae42a4b2681c6be97f6c62dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724518938035
+status: 1
+tags: []
+user_id: f81658c

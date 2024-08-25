@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/8e69b6c1808b4f42b3971614f90d77ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e69b6c1808b4f42b3971614f90d77ff
+run_name: nebulous-goat-351
+run_uuid: 8e69b6c1808b4f42b3971614f90d77ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724519427005
+status: 1
+tags: []
+user_id: f81658c

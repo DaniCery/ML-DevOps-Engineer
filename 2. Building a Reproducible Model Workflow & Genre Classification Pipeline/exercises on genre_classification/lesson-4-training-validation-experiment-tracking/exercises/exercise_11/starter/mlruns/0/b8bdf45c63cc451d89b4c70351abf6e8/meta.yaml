@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/b8bdf45c63cc451d89b4c70351abf6e8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8bdf45c63cc451d89b4c70351abf6e8
+run_name: monumental-cat-921
+run_uuid: b8bdf45c63cc451d89b4c70351abf6e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724518959566
+status: 1
+tags: []
+user_id: f81658c

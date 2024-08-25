@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/03ceac2778934d028e00c6423c71daa5/artifacts
+end_time: 1724503985561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03ceac2778934d028e00c6423c71daa5
+run_name: whimsical-cow-443
+run_uuid: 03ceac2778934d028e00c6423c71daa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724503979272
+status: 4
+tags: []
+user_id: f81658c

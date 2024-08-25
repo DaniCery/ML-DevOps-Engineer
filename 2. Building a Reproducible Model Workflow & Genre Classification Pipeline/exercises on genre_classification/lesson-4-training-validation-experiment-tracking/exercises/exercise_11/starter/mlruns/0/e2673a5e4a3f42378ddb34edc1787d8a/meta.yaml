@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/e2673a5e4a3f42378ddb34edc1787d8a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2673a5e4a3f42378ddb34edc1787d8a
+run_name: bouncy-elk-2
+run_uuid: e2673a5e4a3f42378ddb34edc1787d8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520298396
+status: 1
+tags: []
+user_id: f81658c

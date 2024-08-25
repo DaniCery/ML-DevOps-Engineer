@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/1497981ecc4b488b8a087f79070720e4/artifacts
+end_time: 1724512975254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1497981ecc4b488b8a087f79070720e4
+run_name: rumbling-mouse-265
+run_uuid: 1497981ecc4b488b8a087f79070720e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724512973977
+status: 4
+tags: []
+user_id: f81658c

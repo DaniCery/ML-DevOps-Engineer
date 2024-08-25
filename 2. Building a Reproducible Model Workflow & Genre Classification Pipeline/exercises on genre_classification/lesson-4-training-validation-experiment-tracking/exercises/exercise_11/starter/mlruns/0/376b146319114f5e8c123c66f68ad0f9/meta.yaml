@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/376b146319114f5e8c123c66f68ad0f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 376b146319114f5e8c123c66f68ad0f9
+run_name: gaudy-mare-818
+run_uuid: 376b146319114f5e8c123c66f68ad0f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724507803382
+status: 1
+tags: []
+user_id: f81658c

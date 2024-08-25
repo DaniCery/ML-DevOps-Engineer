@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/f15ddeb5a3334695a572c60348b4b67a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f15ddeb5a3334695a572c60348b4b67a
+run_name: unruly-foal-694
+run_uuid: f15ddeb5a3334695a572c60348b4b67a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504138153
+status: 1
+tags: []
+user_id: f81658c

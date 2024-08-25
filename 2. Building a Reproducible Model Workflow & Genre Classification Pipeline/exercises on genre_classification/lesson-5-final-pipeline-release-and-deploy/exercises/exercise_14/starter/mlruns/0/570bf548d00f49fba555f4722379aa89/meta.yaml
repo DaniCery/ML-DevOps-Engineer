@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/570bf548d00f49fba555f4722379aa89/artifacts
+end_time: 1724599393192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 570bf548d00f49fba555f4722379aa89
+run_name: casual-gnat-24
+run_uuid: 570bf548d00f49fba555f4722379aa89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724599381787
+status: 3
+tags: []
+user_id: f81658c

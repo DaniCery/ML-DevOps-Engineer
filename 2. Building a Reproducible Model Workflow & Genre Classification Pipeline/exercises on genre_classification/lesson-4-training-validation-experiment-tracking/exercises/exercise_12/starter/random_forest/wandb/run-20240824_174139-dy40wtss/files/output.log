@@ -1,0 +1,22 @@
+2024-08-24 17:41:41,350 Downloading and reading test artifact
+2024-08-24 17:41:42,684 Extracting target from dataframe
+2024-08-24 17:41:42,686 Splitting train/val
+2024-08-24 17:41:42,703 Setting up pipeline
+2024-08-24 17:41:42,707 Fitting
+2024-08-24 17:41:52,649 Scoring
+Traceback (most recent call last):
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/random_forest/run.py", line 250, in <module>
+    go(args)
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/random_forest/run.py", line 64, in go
+    export_model(run, pipe, X_val, pred, args.export_artifact)
+  File "/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/random_forest/run.py", line 104, in export_model
+    signature = infer_signature(X_val, val_pred)
+  File "/opt/anaconda3/envs/mlflow-7ed8cdded490606c9b777ecdde5cd2ae62a98867/lib/python3.10/site-packages/mlflow/models/signature.py", line 212, in infer_signature
+    inputs = _infer_schema(model_input) if model_input is not None else None
+  File "/opt/anaconda3/envs/mlflow-7ed8cdded490606c9b777ecdde5cd2ae62a98867/lib/python3.10/site-packages/mlflow/types/utils.py", line 135, in _infer_schema
+    [ColSpec(type=_infer_pandas_column(data[col]), name=col) for col in data.columns]
+  File "/opt/anaconda3/envs/mlflow-7ed8cdded490606c9b777ecdde5cd2ae62a98867/lib/python3.10/site-packages/mlflow/types/utils.py", line 135, in <listcomp>
+    [ColSpec(type=_infer_pandas_column(data[col]), name=col) for col in data.columns]
+  File "/opt/anaconda3/envs/mlflow-7ed8cdded490606c9b777ecdde5cd2ae62a98867/lib/python3.10/site-packages/mlflow/types/utils.py", line 293, in _infer_pandas_column
+    raise MlflowException(
+mlflow.exceptions.MlflowException: Unable to map 'object' type to MLflow DataType. object can be mapped iff all values have identical data type which is one of (string, (bytes or byterray),  int, float).

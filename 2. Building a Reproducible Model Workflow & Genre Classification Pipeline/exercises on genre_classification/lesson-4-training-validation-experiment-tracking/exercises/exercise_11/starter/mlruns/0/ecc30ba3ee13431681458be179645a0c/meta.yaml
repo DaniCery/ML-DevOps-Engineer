@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ecc30ba3ee13431681458be179645a0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecc30ba3ee13431681458be179645a0c
+run_name: upset-dog-18
+run_uuid: ecc30ba3ee13431681458be179645a0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724511118187
+status: 1
+tags: []
+user_id: f81658c

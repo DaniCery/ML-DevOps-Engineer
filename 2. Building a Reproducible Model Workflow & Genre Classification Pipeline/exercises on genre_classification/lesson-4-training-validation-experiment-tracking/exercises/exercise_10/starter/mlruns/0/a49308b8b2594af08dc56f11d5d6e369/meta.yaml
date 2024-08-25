@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/a49308b8b2594af08dc56f11d5d6e369/artifacts
+end_time: 1724410496750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a49308b8b2594af08dc56f11d5d6e369
+run_name: useful-chimp-971
+run_uuid: a49308b8b2594af08dc56f11d5d6e369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724410464813
+status: 4
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/29d6876b3bec4c82895463bfea038a68/artifacts
+end_time: 1724413962602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29d6876b3bec4c82895463bfea038a68
+run_name: auspicious-bug-152
+run_uuid: 29d6876b3bec4c82895463bfea038a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724413897759
+status: 3
+tags: []
+user_id: f81658c

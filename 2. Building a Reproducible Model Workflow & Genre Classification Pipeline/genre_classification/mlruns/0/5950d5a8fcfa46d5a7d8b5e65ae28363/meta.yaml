@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/5950d5a8fcfa46d5a7d8b5e65ae28363/artifacts
+end_time: 1724600416985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5950d5a8fcfa46d5a7d8b5e65ae28363
+run_name: youthful-rat-311
+run_uuid: 5950d5a8fcfa46d5a7d8b5e65ae28363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724600405842
+status: 3
+tags: []
+user_id: f81658c

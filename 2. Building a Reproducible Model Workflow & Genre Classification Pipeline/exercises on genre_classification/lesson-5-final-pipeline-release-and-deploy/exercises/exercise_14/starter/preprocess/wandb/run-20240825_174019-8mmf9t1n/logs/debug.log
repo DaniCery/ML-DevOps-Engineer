@@ -1,0 +1,28 @@
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_setup.py:_flush():76] Current SDK version is 0.16.4
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_setup.py:_flush():76] Configure stats pid to 45115
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_setup.py:_flush():76] Loading settings from /Users/f81658c/.config/wandb/settings
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_setup.py:_flush():76] Loading settings from /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/preprocess/wandb/settings
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'project': 'exercise_14', 'run_group': 'dev'}
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/preprocess/run.py', 'program_abspath': '/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/preprocess/run.py', 'program': '/Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/preprocess/run.py'}
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_init.py:_log_setup():526] Logging user logs to /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/preprocess/wandb/run-20240825_174019-8mmf9t1n/logs/debug.log
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_init.py:_log_setup():527] Logging internal logs to /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/preprocess/wandb/run-20240825_174019-8mmf9t1n/logs/debug-internal.log
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_init.py:init():566] calling init triggers
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_init.py:init():573] wandb.init called with sweep_config: {}
+config: {}
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_init.py:init():616] starting backend
+2024-08-25 17:40:19,281 INFO    MainThread:45115 [wandb_init.py:init():620] setting up manager
+2024-08-25 17:40:19,282 INFO    MainThread:45115 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-08-25 17:40:19,283 INFO    MainThread:45115 [wandb_init.py:init():628] backend started and connected
+2024-08-25 17:40:19,285 INFO    MainThread:45115 [wandb_init.py:init():720] updated telemetry
+2024-08-25 17:40:19,302 INFO    MainThread:45115 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-08-25 17:40:19,801 INFO    MainThread:45115 [wandb_run.py:_on_init():2262] communicating current version
+2024-08-25 17:40:19,862 INFO    MainThread:45115 [wandb_run.py:_on_init():2271] got version response upgrade_message: "wandb version 0.17.7 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-08-25 17:40:19,862 INFO    MainThread:45115 [wandb_init.py:init():804] starting run threads in backend
+2024-08-25 17:40:20,356 INFO    MainThread:45115 [wandb_run.py:_console_start():2241] atexit reg
+2024-08-25 17:40:20,356 INFO    MainThread:45115 [wandb_run.py:_redirect():2096] redirect: wrap_raw
+2024-08-25 17:40:20,356 INFO    MainThread:45115 [wandb_run.py:_redirect():2161] Wrapping output streams.
+2024-08-25 17:40:20,356 INFO    MainThread:45115 [wandb_run.py:_redirect():2186] Redirects installed.
+2024-08-25 17:40:20,356 INFO    MainThread:45115 [wandb_init.py:init():847] run started, returning control to user process
+2024-08-25 17:40:27,878 WARNING MsgRouterThr:45115 [router.py:message_loop():77] message_loop has been closed

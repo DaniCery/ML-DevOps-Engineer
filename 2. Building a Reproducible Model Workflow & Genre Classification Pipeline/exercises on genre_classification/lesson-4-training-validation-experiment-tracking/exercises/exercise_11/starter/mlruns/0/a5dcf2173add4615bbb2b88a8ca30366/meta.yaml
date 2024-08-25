@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/a5dcf2173add4615bbb2b88a8ca30366/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5dcf2173add4615bbb2b88a8ca30366
+run_name: capable-turtle-509
+run_uuid: a5dcf2173add4615bbb2b88a8ca30366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520237486
+status: 1
+tags: []
+user_id: f81658c

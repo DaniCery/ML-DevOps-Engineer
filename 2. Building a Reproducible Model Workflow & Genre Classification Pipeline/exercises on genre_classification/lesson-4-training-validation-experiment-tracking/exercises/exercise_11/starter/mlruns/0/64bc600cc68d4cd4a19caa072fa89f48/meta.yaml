@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/64bc600cc68d4cd4a19caa072fa89f48/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64bc600cc68d4cd4a19caa072fa89f48
+run_name: loud-kit-663
+run_uuid: 64bc600cc68d4cd4a19caa072fa89f48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724518959307
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/60ae86dc2b2f4637b3f5fb8564e6deac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60ae86dc2b2f4637b3f5fb8564e6deac
+run_name: traveling-skunk-641
+run_uuid: 60ae86dc2b2f4637b3f5fb8564e6deac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724507803751
+status: 1
+tags: []
+user_id: f81658c

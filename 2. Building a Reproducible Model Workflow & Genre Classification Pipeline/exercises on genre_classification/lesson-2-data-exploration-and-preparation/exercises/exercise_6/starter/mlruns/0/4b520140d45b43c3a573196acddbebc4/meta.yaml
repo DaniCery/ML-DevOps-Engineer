@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/mlruns/0/4b520140d45b43c3a573196acddbebc4/artifacts
+end_time: 1724346903951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b520140d45b43c3a573196acddbebc4
+run_name: popular-ape-543
+run_uuid: 4b520140d45b43c3a573196acddbebc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724346855335
+status: 4
+tags: []
+user_id: f81658c

@@ -1,0 +1,112 @@
+[1mcollected 1 item                                                                                            
+test_data.py::test_kolmogorov_smirnov [31mFAILED
+================================================= FAILURES ==================================================
+[31m[1m__________________________________________ test_kolmogorov_smirnov __________________________________________
+data = (       Unnamed: 0.1  Unnamed: 0  ...                         title                                  text_feature
+0   ...92         13606       13606  ...                         NaN               Everybody Knows
+[12593 rows x 20 columns])
+    def test_kolmogorov_smirnov(data):
+        sample1, sample2 = data
+        #fill na
+>       sample1 = sample1.fillna(sample1.median())
+[31m[1mtest_data.py[39m[22m:28:
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+[31m[1m/opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/pandas/core/frame.py[39m[22m:11693: in median
+    result = super().median(axis, skipna, numeric_only, **kwargs)
+[31m[1m/opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/pandas/core/generic.py[39m[22m:12428: in median
+    return self._stat_function(
+[31m[1m/opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/pandas/core/generic.py[39m[22m:12374: in _stat_function
+    return self._reduce(
+[31m[1m/opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/pandas/core/frame.py[39m[22m:11549: in _reduce
+    res = df._mgr.reduce(blk_func)
+[31m[1m/opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/pandas/core/internals/managers.py[39m[22m:1500: in reduce
+    nbs = blk.reduce(func)
+[31m[1m/opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/pandas/core/internals/blocks.py[39m[22m:404: in reduce
+    result = func(self.values)
+[31m[1m/opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/pandas/core/frame.py[39m[22m:11468: in blk_func
+    return op(values, axis=axis, skipna=skipna, **kwds)
+[31m[1m/opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/pandas/core/nanops.py[39m[22m:147: in f
+    result = alt(values, axis=axis, skipna=skipna, **kwds)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+values = array([['audio_features', 'audio_features', 'audio_features', ...,
+        'audio_features', 'audio_features', 'audio_...ass - 2015 to 2020 ', ..., 'Top Trance Songs EVER ',
+        'HEADBANGERS:Dubstep/Riddim ', ' Sit Ups']], dtype=object)
+    @bottleneck_switch()
+    def nanmedian(values, *, axis: AxisInt | None = None, skipna: bool = True, mask=None):
+        """
+        Parameters
+        ----------
+        values : ndarray
+        axis : int, optional
+        skipna : bool, default True
+        mask : ndarray[bool], optional
+            nan-mask if known
+        Returns
+        -------
+        result : float
+            Unless input is a float array, in which case use the same
+            precision as the input array.
+        Examples
+        --------
+        >>> from pandas.core import nanops
+        >>> s = pd.Series([1, np.nan, 2, 2])
+        >>> nanops.nanmedian(s.values)
+        2.0
+        """
+        # for floats without mask, the data already uses NaN as missing value
+        # indicator, and `mask` will be calculated from that below -> in those
+        # cases we never need to set NaN to the masked values
+        using_nan_sentinel = values.dtype.kind == "f" and mask is None
+        def get_median(x, _mask=None):
+            if _mask is None:
+                _mask = notna(x)
+            else:
+                _mask = ~_mask
+            if not skipna and not _mask.all():
+                return np.nan
+            with warnings.catch_warnings():
+                # Suppress RuntimeWarning about All-NaN slice
+                warnings.filterwarnings(
+                    "ignore", "All-NaN slice encountered", RuntimeWarning
+                )
+                res = np.nanmedian(x[_mask])
+            return res
+        dtype = values.dtype
+        values, mask = _get_values(values, skipna, mask=mask, fill_value=None)
+        if values.dtype.kind != "f":
+            if values.dtype == object:
+                # GH#34671 avoid casting strings to numeric
+                inferred = lib.infer_dtype(values)
+                if inferred in ["string", "mixed"]:
+>                   raise TypeError(f"Cannot convert {values} to numeric")
+[31m[1mE                   TypeError: Cannot convert [['audio_features' 'audio_features' 'audio_features' ... 'audio_features'
+[31m[1mE                     'audio_features' 'audio_features']
+[31m[1mE                    ['trap' 'techhouse' 'dnb' ... 'trance' 'trap' 'Dark Trap']
+[31m[1mE                    [nan nan nan ... nan nan 'Sit Ups']
+[31m[1mE                    ['HEADBANGERS:Dubstep/Riddim' 'Tech house'
+[31m[1mE                     'Drum and Bass - 2015 to 2020' ... 'Top Trance Songs EVER'
+[31m[1mE                     'HEADBANGERS:Dubstep/Riddim' nan]
+[31m[1mE                    ['HEADBANGERS:Dubstep/Riddim ' 'Tech house '
+[31m[1mE                     'Drum and Bass - 2015 to 2020 ' ... 'Top Trance Songs EVER '
+[31m[1mE                     'HEADBANGERS:Dubstep/Riddim ' ' Sit Ups']] to numeric
+[31m[1m/opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/pandas/core/nanops.py[39m[22m:787: TypeError
+[33m============================================= warnings summary ==============================================
+<frozen importlib._bootstrap>:488
+  <frozen importlib._bootstrap>:488: DeprecationWarning: Type google._upb._message.MessageMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+<frozen importlib._bootstrap>:488
+  <frozen importlib._bootstrap>:488: DeprecationWarning: Type google._upb._message.ScalarMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+../../../../../../../../../../opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/wandb/analytics/sentry.py:90
+  /opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/wandb/analytics/sentry.py:90: SentryHubDeprecationWarning: `sentry_sdk.Hub` is deprecated and will be removed in a future major release. Please consult our 1.x to 2.x migration guide for details on how to migrate `Hub` usage to the new API: https://docs.sentry.io/platforms/python/migration/1.x-to-2.x
+    self.hub = sentry_sdk.Hub(client)
+../../../../../../../../../../opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/google/protobuf/internal/well_known_types.py:174
+../../../../../../../../../../opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/google/protobuf/internal/well_known_types.py:174
+../../../../../../../../../../opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/google/protobuf/internal/well_known_types.py:174
+test_data.py::test_kolmogorov_smirnov
+test_data.py::test_kolmogorov_smirnov
+test_data.py::test_kolmogorov_smirnov
+  /opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/lib/python3.12/site-packages/google/protobuf/internal/well_known_types.py:174: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    self.FromDatetime(datetime.datetime.utcnow())
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+[36m[1m========================================== short test summary info ==========================================
+[31mFAILED[39m test_data.py::[1mtest_kolmogorov_smirnov[22m - TypeError: Cannot convert [['audio_features' 'audio_features' 'audio_features' ... 'audio_features'
+[31m======================================= [1m1 failed[39m[22m, [33m9 warnings[31m in 6.16s =======================================

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/b8b4c1fe647f4a2da74b9fe7fe734294/artifacts
+end_time: 1724599675482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8b4c1fe647f4a2da74b9fe7fe734294
+run_name: brawny-asp-383
+run_uuid: b8b4c1fe647f4a2da74b9fe7fe734294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724599647433
+status: 3
+tags: []
+user_id: f81658c

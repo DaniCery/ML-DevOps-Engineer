@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/95fa060aa143422d9ae5b561ea021164/artifacts
+end_time: 1724601646453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95fa060aa143422d9ae5b561ea021164
+run_name: righteous-deer-487
+run_uuid: 95fa060aa143422d9ae5b561ea021164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724601615330
+status: 3
+tags: []
+user_id: f81658c

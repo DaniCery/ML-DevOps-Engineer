@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/7be6288582f24b6fa11b4e7e6ba804cb/artifacts
+end_time: 1724520298911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7be6288582f24b6fa11b4e7e6ba804cb
+run_name: placid-yak-529
+run_uuid: 7be6288582f24b6fa11b4e7e6ba804cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520293621
+status: 4
+tags: []
+user_id: f81658c

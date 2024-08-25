@@ -1,0 +1,13 @@
+[1m=========================================== test session starts ============================================
+platform darwin -- Python 3.8.19, pytest-8.3.2, pluggy-1.5.0 -- /opt/anaconda3/envs/udacity_mldevops/bin/python3.8
+cachedir: .pytest_cache
+rootdir: /Users/f81658c/Documents/Git repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_9/starter
+plugins: typeguard-4.3.0, anyio-4.4.0
+[1mcollected 1 item                                                                                           
+test_data.py::test_kolmogorov_smirnov [32mPASSED
+[33m============================================= warnings summary =============================================
+../../../../../../../../../../opt/anaconda3/envs/udacity_mldevops/lib/python3.8/site-packages/wandb/analytics/sentry.py:90
+  /opt/anaconda3/envs/udacity_mldevops/lib/python3.8/site-packages/wandb/analytics/sentry.py:90: SentryHubDeprecationWarning: `sentry_sdk.Hub` is deprecated and will be removed in a future major release. Please consult our 1.x to 2.x migration guide for details on how to migrate `Hub` usage to the new API: https://docs.sentry.io/platforms/python/migration/1.x-to-2.x
+    self.hub = sentry_sdk.Hub(client)
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+[33m======================================= [32m1 passed[39m, [33m[1m1 warning[22m in 3.07s =======================================

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/11f793cac9bb4a30b28f4f6053d32b1a/artifacts
+end_time: 1724598625957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11f793cac9bb4a30b28f4f6053d32b1a
+run_name: colorful-mare-77
+run_uuid: 11f793cac9bb4a30b28f4f6053d32b1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724598614376
+status: 3
+tags: []
+user_id: f81658c

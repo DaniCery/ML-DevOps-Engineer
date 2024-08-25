@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/b67731c503354362a80ca3b2dd3203a1/artifacts
+end_time: 1724512664140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b67731c503354362a80ca3b2dd3203a1
+run_name: abundant-ant-376
+run_uuid: b67731c503354362a80ca3b2dd3203a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724512627021
+status: 4
+tags: []
+user_id: f81658c

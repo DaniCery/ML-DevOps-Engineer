@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/33dad7e0a7de4fc99c6463fbe4840bf7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33dad7e0a7de4fc99c6463fbe4840bf7
+run_name: stylish-rat-28
+run_uuid: 33dad7e0a7de4fc99c6463fbe4840bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724517856070
+status: 1
+tags: []
+user_id: f81658c

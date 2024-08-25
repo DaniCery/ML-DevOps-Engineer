@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/24caa4008b384702913c92528bc8399f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24caa4008b384702913c92528bc8399f
+run_name: wistful-sow-268
+run_uuid: 24caa4008b384702913c92528bc8399f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724504137737
+status: 1
+tags: []
+user_id: f81658c

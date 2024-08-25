@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/745f181782774d43bfcf074c3008bd73/artifacts
+end_time: 1724600480740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 745f181782774d43bfcf074c3008bd73
+run_name: abrasive-kit-758
+run_uuid: 745f181782774d43bfcf074c3008bd73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724600341214
+status: 4
+tags: []
+user_id: f81658c

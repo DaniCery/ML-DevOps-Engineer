@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/4710fb4214c54d2a81e1b20cbee278e4/artifacts
+end_time: 1724505224557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4710fb4214c54d2a81e1b20cbee278e4
+run_name: efficient-asp-99
+run_uuid: 4710fb4214c54d2a81e1b20cbee278e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724505204073
+status: 3
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/mlruns/0/27401c9908a0447fb8229c473579430d/artifacts
+end_time: 1724347432662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27401c9908a0447fb8229c473579430d
+run_name: monumental-ray-789
+run_uuid: 27401c9908a0447fb8229c473579430d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724347413220
+status: 3
+tags: []
+user_id: f81658c

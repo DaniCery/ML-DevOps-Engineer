@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ffb0d80946f2419587fcf1012299812e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffb0d80946f2419587fcf1012299812e
+run_name: industrious-hen-89
+run_uuid: ffb0d80946f2419587fcf1012299812e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724517664174
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/e8cd779faf784666826a7b2cbb0a3693/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8cd779faf784666826a7b2cbb0a3693
+run_name: handsome-fly-859
+run_uuid: e8cd779faf784666826a7b2cbb0a3693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724519426547
+status: 1
+tags: []
+user_id: f81658c

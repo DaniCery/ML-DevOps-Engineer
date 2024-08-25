@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ee9d2d0978f7489b883d0ab6c707ff97/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee9d2d0978f7489b883d0ab6c707ff97
+run_name: resilient-doe-480
+run_uuid: ee9d2d0978f7489b883d0ab6c707ff97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724519426189
+status: 1
+tags: []
+user_id: f81658c

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/a1f302c0fde44fa799c1fcbf9af389f8/artifacts
+end_time: 1724409528829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1f302c0fde44fa799c1fcbf9af389f8
+run_name: dapper-deer-470
+run_uuid: a1f302c0fde44fa799c1fcbf9af389f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724409527453
+status: 4
+tags: []
+user_id: f81658c

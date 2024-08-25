@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/f81658c/Documents/Git%20repo/ML-DevOps-Engineer/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/45853ff183c04a008b55ee09b9fcd4f1/artifacts
+end_time: 1724510745796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45853ff183c04a008b55ee09b9fcd4f1
+run_name: shivering-trout-822
+run_uuid: 45853ff183c04a008b55ee09b9fcd4f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724510706338
+status: 4
+tags: []
+user_id: f81658c
